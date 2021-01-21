@@ -1,6 +1,6 @@
 # What is Citizen Science
 
-* The term citizen science was coined by Alan Irwin and Rick Bonney independently of each other 
+* The term citizen science was coined by **Alan Irwin** and **Rick Bonney** independently of each other 
 * Both used the term but give it different meanings. 
 
 ## Alan Irwin (Irwin 1995)
