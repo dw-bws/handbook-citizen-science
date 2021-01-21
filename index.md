@@ -5,7 +5,7 @@
 What is Citizen Science
 
 # Useful links
-[https://www.buergerschaffenwissen.de/](https://www.buergerschaffenwissen.de/)
+[Buerger schaffen Wissen](https://www.buergerschaffenwissen.de/)
 
 [AG Weißbuch](https://www.buergerschaffenwissen.de/citizen-science/arbeitsgruppen/weissbuch)
 
