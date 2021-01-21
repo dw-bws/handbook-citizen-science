@@ -3,6 +3,7 @@
 # Topics
 
 [What is Citizen Science](what_is_cs.md)
+[Creative Commons Licenses](cc_licenses.md)
 
 
 # Useful links
