@@ -1,4 +1,4 @@
-# Welcome to the handbook-citizen-science wiki!
+# Welcome to the Handbook on Citizen Science!
 
 # Topics
 
