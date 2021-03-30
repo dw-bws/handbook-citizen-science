@@ -49,15 +49,14 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 An uneven‐aged  stand  consist  of  trees  that  originate  at  different  times  and consequently, the trees of the different age classes show different sizes, which typically results in several storeys. 
 Usually, managed forests are well documented in management plans. Thus the age of an even‐aged or uneven‐aged stand can becalculated from the time elapsed between the documented date of the germination of the seeds and the current date. 
 If this not the case, the measurement methods described above for the indvidual tree parameter "age" can be used to get data from a appropriate sample of the trees within a forest stand to derive the age class of the forest stand. 
-If forest stands consists of an upper storey of even‐aged trees, and a similarly even‐aged but younger lower storey, the two age classes might be weighted, for example, by assigning a weight to each age class proportional to volume (Anuchin 1970). If the 
-stand  consists  of  several  identiﬁable  clusters  of  even‐aged  trees,  weights  might  be assigned proportional to the area occupied by these clusters (Kramer and Dong 1985).</p> 
+If forest stands consists of an upper storey of even‐aged trees, and a similarly even‐aged but younger lower storey, the two age classes might be weighted, for example, by assigning a weight to each age class proportional to volume (Anuchin 1970). If the stand  consists  of  several  identiﬁable  clusters  of  even‐aged  trees,  weights  might  be assigned proportional to the area occupied by these clusters (Kramer and Dong 1985).</p> 
 
 ### Height 
 <p align="justify">Tree height is required for determining the timber stock of a forest stand. Tree height in  forest  stands  with  an  even‐aged  population  may  vary  less  than  in  uneven‐aged stands. Also the variation in diameter in an even‐aged stand is usually less than in an uneven‐aged  stand,  where  the  height  distribution  is  often  similar  to  the  diameter distribution (Husch et al. 2002).</p> 
  
  
 ### Diameter 
-<p align="justify">The diameter, typically the diameter at breast height (DBH) is regarded as the most important stand parameter. Together with data on tree age and height it can be used to calculate the timber stock, either expressed a volume (cubic metres or soil cubic metres). Data on diameter are collected during forest inventory using the methods described in 3.1.1.2.</p>
+<p align="justify">The diameter, typically the diameter at breast height (DBH) is regarded as the most important stand parameter. Together with data on tree age and height it can be used to calculate the timber stock, either expressed a volume (cubic metres or soil cubic metres). Data on diameter are collected during forest inventory using the methods described above for the indvidual tree parameter "age"</p>
 
 ### Stand Density 
 <p align="justify">Stand density refers either to the degree to which a forest plot is populated by trees or how much wood or biomass can found at a certain area.  
