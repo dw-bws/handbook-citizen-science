@@ -24,7 +24,7 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 
 ### Tree Diameter  
 
-In	forestry,	the	diameter	of	a	tree	stem	is	used	as	a	direct	measure	that,	together	with other	variables,	can	be	used	to	compute	cross‐sectional	areas,	surface	area	and	tree	volume	via	allometric	formulas.	The	diameter	is	typically	measure	at	breast	height	and	abbreviated	DBH	(diameter	at	breast	height	or	“BHD”	for	“Brusthöhendurchmesser”	in	German).	In	the	USA,	this	is	a	height	of	4.5	feet	above	ground.	In	countries	using	the	metric	system,	the	breast	height	is	measured	at 1.3	m	above	ground	level	(Husch	et	al.	2002).	Instruments	 commonly	 used	 in	 forestry	 to	 measure	 BHD	 are	 calipers	 (the	 German	name	for	the	instrument	is	“Kluppe”)	(Fig. 3) or	simple	measuring	tapes.	
+<p align="justify">In	forestry,	the	diameter	of	a	tree	stem	is	used	as	a	direct	measure	that,	together	with other	variables,	can	be	used	to	compute	cross‐sectional	areas,	surface	area	and	tree	volume	via	allometric	formulas.	The	diameter	is	typically	measure	at	breast	height	and	abbreviated	DBH	(diameter	at	breast	height	or	“BHD”	for	“Brusthöhendurchmesser”	in	German).	In	the	USA,	this	is	a	height	of	4.5	feet	above	ground.	In	countries	using	the	metric	system,	the	breast	height	is	measured	at 1.3	m	above	ground	level	(Husch	et	al.	2002).	Instruments	 commonly	 used	 in	 forestry	 to	 measure	 BHD	 are	 calipers	 (the	 German	name	for	the	instrument	is	“Kluppe”)	(Fig. 3) or	simple	measuring	tapes.</p>	
 
 <img src="../images/Kluppeneinsatz.jpg" alt="Tree rings" class="inline" width="400"/>
 
