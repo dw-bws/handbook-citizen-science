@@ -3,8 +3,8 @@
 # Topics
 
 * [What is Citizen Science](pages/what_is_cs.md)
-* [Creative Commons Licenses](cc_licenses.md)
-* [Apps for data acquisition](apps.md)
+* [Creative Commons Licenses](pages/cc_licenses.md)
+* [Apps for data acquisition](pages/apps.md)
 
 
 # Useful links
