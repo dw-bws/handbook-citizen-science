@@ -37,7 +37,7 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 
 ###### Fig. 4: 	Different	tree	height	variables	(Source:	https://openclipart.org/	images	released	into	Public	Domain; own editing)	
 
-<p alighn="justify">Depending	on	the	tree	height,	different	instruments	can	be	used	to	these	this	variables.	Short	trees	can	be	measured	using	a	simple	levelling	rod. For	taller	trees,a	hypsometer	can	be	used.	This	instrument	is	using	either	using	geometric	functions	(hypsometer	based	 on	 similar	 triangles)	 or	 trigonometric	 (hypsometers	 based	 on	 tangents	 and	angles)	functions	to	determine	the	height	of	a	tree.	</p>
+<p alighn="justify">Depending	on	the	tree	height,	different	instruments	can	be	used	to	these	this	variables.	Short	trees	can	be	measured	using	a	simple	levelling	rod. For	taller	trees,a	hypsometer	can	be	used.	This	instrument	is	using	either	using	geometric	functions	(hypsometer	based	 on	 similar	 triangles)	 or	 trigonometric	 (hypsometers	 based	 on	 tangents	 and	angles)	functions	to	determine	the	height	of	a	tree  (Husch et al. 2002).</p>
   
   
   
