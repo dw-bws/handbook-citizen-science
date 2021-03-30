@@ -18,7 +18,7 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 <p align="justify">Tree rings can be counted after a tree has been felled. To count tree rings of living trees, a so called increment borer (Fig. 2) can be used. With this instrument, an increment core is extracted from the tree at breast height (please refer to next chapter for a definition of breast height). The tree rings contained in the core are counted. To this value, the estimated number of years is added to reach the height of the point of the core extraction (Van Laar and Akça 2007).</p>
 
 
-<img src="../images/Pressler_drill_5_beentree.jpg" alt="Tree rings" class="inline" width="400"/>
+<img src="../images/Pressler_drill_5_beentree.jpg" alt="Tree presller drill" class="inline" width="400"/>
 
 ###### Fig. 2: Increment borer (Source: https://upload.wikimedia.org/wikipedia/commons/3/34/Pressler_drill_5_beentree.jpg, License CC BY‐SA 3.0)
 
@@ -26,7 +26,7 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 
 <p align="justify">In	forestry,	the	diameter	of	a	tree	stem	is	used	as	a	direct	measure	that,	together	with other	variables,	can	be	used	to	compute	cross‐sectional	areas,	surface	area	and	tree	volume	via	allometric	formulas.	The	diameter	is	typically	measure	at	breast	height	and	abbreviated	DBH	(diameter	at	breast	height	or	“BHD”	for	“Brusthöhendurchmesser”	in	German).	In	the	USA,	this	is	a	height	of	4.5	feet	above	ground.	In	countries	using	the	metric	system,	the	breast	height	is	measured	at 1.3	m	above	ground	level	(Husch	et	al.	2002).	Instruments	 commonly	 used	 in	 forestry	 to	 measure	 BHD	 are	 calipers	 (the	 German	name	for	the	instrument	is	“Kluppe”)	(Fig. 3) or	simple	measuring	tapes.</p>	
 
-<img src="../images/Kluppeneinsatz.jpg" alt="Tree rings" class="inline" width="400"/>
+<img src="../images/Kluppeneinsatz.jpg" alt="Tree diameter" class="inline" width="400"/>
 
 ###### Fig. 3: Beam	caliper	(Source:	https://upload.wikimedia.org/wikipedia/commons/3/3b/Kluppeneinsatz.jpg, License	CC	BY‐SA	3.0)	
 
@@ -34,11 +34,11 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 <p align="justify"> Tree	height	is	the	most	important	vertical	distance	measure,	but	it	is	an	ambiguous	term,	if	not	clearly	defined.	Total	tree	height	h	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	tree	top	and	the	ground.	The	bole	height	h b 	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	crown	point	and	the	ground.	The	crown	point	is	the	point,	where	the	first	crown‐forming	branch	is	located.	The	merchantable	height	hm is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	terminal	position	of	the	last	usable	position	of	the	stem	and	the	ground.	
 An	illustration	of	these	height	variables	can	be	found	in	Fig.	4.</p>	
   
-<img src="../images/tree_height.jpg" alt="Tree rings" class="inline" width="400"/>
+<img src="../images/tree_height.jpg" alt="Tree height" class="inline" width="400"/>
 
 ###### Fig. 4: 	Different	tree	height	variables	(Source:	https://openclipart.org/	images	released	into	Public	Domain; own editing)	
 
-<p alighn="justify"<Depending	on	the	tree	height,	different	instruments	can	be	used	to	these	this	variables.	Short	trees	can	be	measured	using	a	simple	levelling	rod. For	taller	trees,a	hypsometer	can	be	used.	This	instrument	is	using	either	using	geometric	functions	(hypsometer	based	 on	 similar	 triangles)	 or	 trigonometric	 (hypsometers	 based	 on	 tangents	 and	angles)	functions	to	determine	the	height	of	a	tree.	</p>
+<p alighn="justify">Depending	on	the	tree	height,	different	instruments	can	be	used	to	these	this	variables.	Short	trees	can	be	measured	using	a	simple	levelling	rod. For	taller	trees,a	hypsometer	can	be	used.	This	instrument	is	using	either	using	geometric	functions	(hypsometer	based	 on	 similar	 triangles)	 or	 trigonometric	 (hypsometers	 based	 on	 tangents	 and	angles)	functions	to	determine	the	height	of	a	tree.	</p>
   
   
   
