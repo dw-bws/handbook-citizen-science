@@ -6,8 +6,10 @@ There are no international binding standards for collecting data using citizen s
 
 The general layout of a citizen science project can be classified into three categories:  
 
-<img src="../images/classification_cs_projects.jpg" alt="class cs projects" class="inline" width="700"/>
+<img src="../images/classification_cs_projects.jpg" alt="class cs projects" class="inline" width="700"/>  
+
 ###### Fig. 1: Model	for	developing,	execution	and	evaluation	of	citizen	science	projects (after	Bonney	et	al.	(2009a))	
 
 ## References
 
+Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." Online Submission. 
