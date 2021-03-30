@@ -31,8 +31,7 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 ###### Fig. 3: Beam	caliper	(Source:	https://upload.wikimedia.org/wikipedia/commons/3/3b/Kluppeneinsatz.jpg, License	CC	BY‐SA	3.0)	
 
 ### Height 
-<p align="justify"> Tree	height	is	the	most	important	vertical	distance	measure,	but	it	is	an	ambiguous	term,	if	not	clearly	defined.	Total	tree	height	h	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	tree	top	and	the	ground.	The	bole	height <em>h<sub>b</sub></em> 	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	crown	point	and	the	ground.	The	crown	point	is	the	point,	where	the	first	crown‐forming	branch	is	located.	The	merchantable	height	hm is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	terminal	position	of	the	last	usable	position	of	the	stem	and	the	ground.	
-An	illustration	of	these	height	variables	can	be	found	in	Fig.	4.</p>	
+<p align="justify"> Tree	height	is	the	most	important	vertical	distance	measure,	but	it	is	an	ambiguous	term,	if	not	clearly	defined.	Total	tree	height	<em>h</em> is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	tree	top	and	the	ground.	The	bole	height <em>h<sub>b</sub></em> 	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	crown	point	and	the	ground.	The	crown	point	is	the	point,	where	the	first	crown‐forming	branch	is	located.	The	merchantable	height	<em>h<sub>m</sub></em> is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	terminal	position	of	the	last	usable	position of	the	stem	and	the	ground.	An	illustration	of	these	height	variables	can	be	found	in	Fig.	4.</p>	
   
 <img src="../images/tree_height.jpg" alt="Tree height" class="inline" width="400"/>
 
