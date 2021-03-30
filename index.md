@@ -18,6 +18,6 @@
 
 [Springer Open Access Buch “The Science of Citizen Science”](https://link.springer.com/book/10.1007/978-3-030-58278-4)
 
-[Leitfaden für rechtliche Fragestellungen in Citizen-Science-Projekten](https://doi.naturkundemuseum.berlin/data/10.7479/c3y1-fw50)
+[Leitfaden für rechtliche Fragestellungen in Citizen-Science-Projekten](https://www.buergerschaffenwissen.de/sites/default/files/grid/2021/01/19/Citizen_Science_rechtlicher_Leitfaden_19.01.2021_WEB.pdf)
 
 
