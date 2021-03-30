@@ -73,7 +73,8 @@ Yandell, M. and D. Ence (2012). "A beginner's guide to eukaryotic genome annotat
 Yao, X., et al. (2016). "Semantic annotation of high‐resolution satellite images via weakly supervised learning." IEEE Transactions on Geoscience and Remote Sensing 54(6): 3660‐3671.   
 
 
-
+---  
+* [Back to index page](../index.md)
 
 
 
