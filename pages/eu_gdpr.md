@@ -5,13 +5,13 @@
 <p align="justify">Data collected by citizens or citizen scientists can either be collected analogously in a pre-printed form or digitally using a smartphone app and contains at least:</p> 
 
 1. a spatial reference, i.e. Location coordinates (e.g. longitude and latitude),  
-
 2. a temporal reference, i.e. the date and time of the measurement  
-
 3. at least one datum (singular of data) which is:  
-a. nominally scaled (e.g. plant species)  
-b. ordinally scaled (naturally distinguishable characteristics like “very good”, “good”, etc.)  
-c. metrically scaled (e.g. air temperature in C° or plant height in cm)  
+    a. nominally scaled (e.g. plant species)  
+    b. ordinally scaled (naturally distinguishable characteristics like “very good”, “good”, etc.)  
+    c. metrically scaled (e.g. air temperature in C° or plant height in cm)  
+    
+    
 4. a personal reference, which is always given in the case of digital data acquisition using a smartphone app, but may or may not exist in the case of analog data acquisition  
 
 
