@@ -32,9 +32,9 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 
 ### Height 
 <p align="justify"> Tree	height	is	the	most	important	vertical	distance	measure,	but	it	is	an	ambiguous	term,	if	not	clearly	defined.	Total	tree	height	h	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	tree	top	and	the	ground.	The	bole	height	h b 	is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	crown	point	and	the	ground.	The	crown	point	is	the	point,	where	the	first	crown‐forming	branch	is	located.	The	merchantable	height	hm is	defined	as	the	vertical	distance	along	the	axis	of	the	tree	between	the	terminal	position	of	the	last	usable	position	of	the	stem	and	the	ground.	
-An	illustration	of	these	height	variables	can	be	found	in	Fig.	4.	
+An	illustration	of	these	height	variables	can	be	found	in	Fig.	4.</p>	
   
-<img src="../images/tree_heigth.jpg" alt="Tree rings" class="inline" width="400"/>
+<img src="../images/tree_height.jpg" alt="Tree rings" class="inline" width="400"/>
 
 ###### Fig. 4: 	Different	tree	height	variables	(Source:	https://openclipart.org/	images	released	into	Public	Domain; own editing)	
 
