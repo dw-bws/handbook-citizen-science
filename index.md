@@ -6,6 +6,7 @@
 * [In-situ measurements on the example of forests](pages/in-situ_forest.md)
 * [Annotation  and  control  for  Citizen  Science  in‐situ data collection ](pages/annotation_control_cs.md)
 * [Creative Commons Licenses](pages/cc_licenses.md)
+* [EU General Data Protection Regulation](pages/eu_gdpr.md)
 * [Apps for data acquisition](pages/apps.md)
 
 
