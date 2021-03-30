@@ -40,7 +40,37 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 <p alighn="justify">Depending	on	the	tree	height,	different	instruments	can	be	used	to	these	this	variables.	Short	trees	can	be	measured	using	a	simple	levelling	rod. For	taller	trees,a	hypsometer	can	be	used.	This	instrument	is	using	either	using	geometric	functions	(hypsometer	based	 on	 similar	 triangles)	 or	 trigonometric	 (hypsometers	 based	 on	 tangents	 and	angles)	functions	to	determine	the	height	of	a	tree  (Husch et al. 2002).</p>
   
   
+## Stand Parameters 
+###  Species Composition 
+<p align="justify"> The	species	composition	describes,	which	tree	species	can	be	found	in	a	forest	stand.	A	forest	 stand	 may	 contain	 only	 one	 dominant	 or	 different	 tree	 species.	 Forest	management	 and	 certification	 protocols	 require	 the	 documentation	 of	 the	 species	composition	of	a	forest	stand.</p>
+
+### Age 
+<p align="justify">Natural	 forests	 usually	 are	 characterized	 by	 trees	 of	 different	 ages	 within	 an	administrative	unit	(e.g.	forest	stand).	In	managed	forests,	trees	in	a	forest	stand	can	be	even‐aged	or	uneven‐aged.	Trees	in	an	even‐aged	forest	stand	belong	to	one	age	class	originating	at	the	same	time	and	usually	show	similar	sizes	(heights,	diameters).  
+An uneven‐aged	 stand	 consist	 of	 trees	 that	 originate	 at	 different	 times	 and	consequently,	the	trees	of	the	different	age	classes	show	different	sizes,	which	typically	results	in	several	storeys.  
+Usually,	managed	forests	are	well	documented	in	management	plans.	Thus	the	age	of	an	even‐aged	or	uneven‐aged	stand	can	becalculated	from	the	time	elapsed	between	the	documented	date	of	the	germination	of	the	seeds	and	the	current	date.  
+If	this	not	the	case,	the	measurement	methods	described above for the indvidual tree parameter "age" can	be	used	to	get	data	from	a	appropriate	sample	of	the	trees	within	a	forest	stand	to	derive	the	age	class	of	the	forest	stand.  
+If	forest	stands	consists	of	an	upper	storey	of	even‐aged	trees,	and	a	similarly	even‐aged	but	younger	lower	storey,	the	two	age	classes	might	be	weighted,	for	example,	by	assigning	a	weight	to	each	age	class	proportional	to	volume	(Anuchin	1970).	If	the	
+stand	 consists	 of	 several	 identiﬁable	 clusters	 of	 even‐aged	 trees,	 weights	 might	 be	assigned	proportional	to	the	area	occupied	by	these	clusters	(Kramer	and	Dong	1985).</p>	
+
+### Height 
+<p align="justify">Tree	height	is	required	for	determining	the	timber	stock	of	a	forest	stand.	Tree	height	in	 forest	 stands	 with	 an	 even‐aged	 population	 may	 vary	 less	 than	 in	 uneven‐aged	stands.	Also	the	variation	in	diameter	in	an	even‐aged	stand	is	usually	less	than	in	an	uneven‐aged	 stand,	 where	 the	 height	 distribution	 is	 often	 similar	 to	 the	 diameter	distribution	(Husch	et	al.	2002).</p>	
   
+  
+### Diameter 
+<p align="justify">The	diameter,	typically	the	diameter	at	breast	height	(DBH)	is	regarded	as	the	most	important	stand	parameter.	Together	with	data	on	tree	age	and	height	it	can	be	used	to	calculate	the	timber	stock,	either	expressed	a	volume	(cubic	metres	or	soil	cubic	metres).	Data	on	diameter	are	collected	during	forest	inventory	using	the	methods	described	in	3.1.1.2.</p>
+
+###  Stand Density 
+<p align="justify">Stand	density	refers	either	to	the	degree	to	which	a	forest	plot	is	populated	by	trees	or	how	much	wood	or	biomass	can	found	at	a	certain	area.  	
+Stand	 density	 is	 a	 quantitative	 measure	 describing	 tree	 cover	 on	 area,	 e.g.	 a	 forest	stand.	It	can	be	expressed	in	terms	of	biomass,	crown	closure,	number	of	trees,	basal	area,	volume,	or	weight.  
+In	the	Free	State	of	Thuringia,	stand	density	refers	to	the	crown	closure	as	a	percentage	and	is	categorized	into	six	classes	ranging	from	unstocked	(crown	closure	<10%)	to	very	dense	(crown	closure	>90%).	The	crown	closure	of	a	forest	stand	is	defined	as	the	area	of	the	crown,projected	on	a	horizontal	plane,	relative	to	the	total	ground	area	of	these	trees.</p>
+	
+### Volume and Weight 
+<p align="justify"> Estimating	 the	 volume	 and	 weight	 of	 the	 trees	 of	 a	 forest	 stand	 is	 an	 important	information	 for	 forest	 management.	 Usually,	 these	 parameters	 are	 determined	 by	selecting	 an	 appropriate	 sample	 of	 representative	 trees	 within	 a	 forest	 stand	 and	collect	single	tree	parameters	such	as	tree	height,	diameter	at	breast	height,	species	and	 age.	 Based	 on	 these	 data,	 the	 volume	 and	 thus	 the	 weight	 of	 the	 trees	 can	 be	determined	by	using	allometric	formulas.	Forest	related	allometry	is	concerned	with	study	of	the	relation	between	size,	volume	and	shape	of	trees.	As	a	result	of	this	field	of	research,	allometric	equations	have	been	derived	which	give	the	possibility	to	calculate	the	volume	and	weight	of	a	tree	based	on	a	few	single	tree	parameters.  
+When	the	volume	and	weight	of	a	representative	sample	of	trees	of	a	forest	stand	are	known,	the	overall	volume	and	weight	of	the	trees	within	the	stand	under	observation	can	be	calculated	via	the	number	of	trees	within	the	forest	stand.  
+This	procedure	is	very	efficient	in	even	aged	stands	with	one	species.	For	uneven‐aged	stands	and/or	stand	with	multiple	tree	species,	this	is	more	complicated.	Then	the	trees	in	the	forest	stands	need	to	be	stratified	to	be	able	to	apply	the	procedure	for	each	strata	individually.  
+Another	possibility	for	estimating	the	volume	and	weight	of	the	trees	of	a	whole	forest	stand	is	the	use	of	yield	tables,	which	have	been	used	since	the	19 th 	century.	They	are	based	 on	 empirical	 knowledge	 and	 list	 the	 potential	 timber	 yield	 for	 specific	 tree	species	in	specific	bio‐geographical	regions	for	different	age	and	height	classes.	Using	yield	tables	usually	assumes	even‐aged	stands	with	one	dominant	species.</p>
+ 
+ 
 ## References
 
 Husch,	B.,	et	al.	(2002):	Forest	mensuration,	John	Wiley	&	Sons.  
