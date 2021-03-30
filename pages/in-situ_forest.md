@@ -9,7 +9,7 @@ The phrase "in-situ" is a Latin phrase and means something like "on site" or "in
 
 Tree age is the time elapsed since the germination of the seed. It is important for assessing tree growth and yield. It can be measured by counting the tree or growth rings.
 
-<img src="../images/Tree_rings.jpg" alt="Tree rings" class="inline"/>
+<img src="../images/Tree_rings.jpg" alt="Tree rings" class="inline"/ width="20">
 
 <img src="images/pixbay_smartphone-2237421_1280.png" alt="hi" class="inline"/>
 
