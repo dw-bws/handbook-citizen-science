@@ -76,4 +76,5 @@ Husch, B., et al. (2002): Forest mensuration, John Wiley & Sons.
 
 Van Laar, A. and A. Akça (2007): Forest mensuration, Springer Science & Business Media.
 
-
+---  
+* [Back to index page](../index.md)
