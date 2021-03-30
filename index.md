@@ -3,6 +3,7 @@
 # Topics
 
 * [What is Citizen Science](pages/what_is_cs.md)
+* [In-situ measurements on the example of forests](pages/in-situ_forest.md)
 * [Creative Commons Licenses](pages/cc_licenses.md)
 * [Apps for data acquisition](pages/apps.md)
 
