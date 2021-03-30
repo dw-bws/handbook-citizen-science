@@ -14,4 +14,4 @@ Bonney, R., Phillips, T.B., Ballard, H.L., & Enck, J.W. (2016): Can citizen scie
 
 Irwin, A. (1995): Citizen science: A study of people, expertise and sustainable development. London, New York: Routledge  
   
-### * [Back to index page] (../index.md)
+* [Back to index page] (../index.md)
