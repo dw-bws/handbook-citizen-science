@@ -4,6 +4,7 @@
 
 * [What is Citizen Science](what_is_cs.md)
 * [Creative Commons Licenses](cc_licenses.md)
+* [Apps for data acquisition](apps.md)
 
 
 # Useful links
