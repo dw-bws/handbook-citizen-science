@@ -12,9 +12,17 @@ The general layout of a citizen science project can be classified into three cat
 
 <p align="justify">One  the  one  side,  there  are  solely  contributory  projects,  which  are  planned  and designed  by  scientists  without  involving  citizen  scientists.  Here,  citizens  are  less involved and is more focused on the scientists needs. Many authors emphasize the importance  of  enthusiasm  among  citizen  scientists  for  the  subject,  which  helps  to capture the imagination of a broad audience. This will be difficult, with contributory projects. Projects that may gain more attention in the public and attract a committed team  of  citizen  scientists  are  collaborative  and  co‐created  projects.  Collaborative projects  are  also  initiated  and  designed  by  scientist  but  involve  citizens  in  several stages of the project design, execution, analysis and dissemination. Co‐created projects merge from an interested community of non‐experts, which is approach science with a task or question that could be resolved in a joint effort (Bonney et al. 2009b, Tweddle et al. 2012).</p> 
 
+<p align="justify">For  the  designing,  set‐up,  execution  and  analysis  of  the  results  of  citizen  science projects,  a  number  of  general  steps  is  recommended  in  many  publications.  The following summary has been compiled by (Bonney et al. 2009b) and shall serve as an example:</p>
+
+<img src="../images/model_cs_projects.jpg" alt="class cs projects" class="inline" width="700"/>  
+
+###### Fig. 2: Model for citizen science projects (after Bonney et al. (2009b))
 
 
 
 ## References
 
 Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." https://files.eric.ed.gov/fulltext/ED519688.pdf 
+
+Bonney, R., et al. (2009b). "Citizen science: a developing tool for expanding science knowledge and scientific literacy." BioScience 59(11): 977‐984. 
+
