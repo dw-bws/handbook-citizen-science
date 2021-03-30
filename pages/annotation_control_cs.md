@@ -34,7 +34,44 @@ With the advent of more spatial high‐resolution satellite imagery in the age o
 
 ## References
 
-Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." https://files.eric.ed.gov/fulltext/ED519688.pdf 
+Beijbom, O., et al. (2012). Automated annotation of coral reef survey images. Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, IEEE.  
 
-Bonney, R., et al. (2009b). "Citizen science: a developing tool for expanding science knowledge and scientific literacy." BioScience 59(11): 977‐984. 
+Beijbom, O., et al. (2016). "Improving automated annotation of benthic survey images using wide‐band fluorescence." Scientific reports 6: 23166.  
+
+Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." https://files.eric.ed.gov/fulltext/ED519688.pdf   
+
+Bonney, R., et al. (2009b). "Citizen science: a developing tool for expanding science knowledge and scientific literacy." BioScience 59(11): 977‐984.  
+
+Cohn, J. P. (2008). "Citizen science: Can volunteers do real research?" AIBS Bulletin 58(3): 192-197.  
+
+Conrad, C. C. and K. G. Hilchey (2011). "A review of citizen science and community‐based environmental monitoring: issues and opportunities." Environmental monitoring and assessment 176(1): 273-291.   
+
+Jacobs, C. and B. Resch (2013). "Semi‐automatisierte Plausibilitätsprüfung in Citizen Science gestützten Naturbeobachtungen." Universität Heidelberg, Geographisches Institut, Abteilung für Geoinformatik.    
+
+Jacobs, C. and A. Schotthöfer (2015). "Citizen‐Science‐Daten zur Biodiversität-Methoden zur Unterstützung der Qualitätssicherung." AGIT Journal 1: 470‐479.   
+
+Joly, A., et al. (2014). "Interactive plant identification based on social image data." Ecological Informatics 23: 22‐34.   
+
+Luo, W., et al. (2012). "Automatic annotation of multispectral satellite images using author–topic model." IEEE Geoscience and Remote Sensing Letters 9(4):634‐638.  
+
+Neagoe, V.‐E. and R.‐M. Stoica (2014). A new neural network‐based approach for automatic annotation of remote sensing imagery. Geoscience and Remote Sensing Symposium (IGARSS), 2014 IEEE International, IEEE.   
+
+Newman, G., et al. (2012). "The future of citizen science: emerging technologies and shifting paradigms." Frontiers in Ecology and the Environment 10(6): 298-304.  
+
+Petrillo, M. and J. Baycroft (2010): "Introduction to manual annotation.". https://gate.ac.uk/wiki/IntroToManualAnnotation_April2010.pdfTweddle, J. C., et al. (2012). Guide to citizen science: developing, implementing and evaluating citizen science to study biodiversity and the environment in the UK, NERC/Centre for Ecology & Hydrology.  
+
+Stein, L. (2001). "Genome annotation: from sequence to biology." Nature reviews genetics 2(7): 493.  
+
+Wiggins, A., et al. (2011). Mechanisms for data quality and validation in citizen science. e‐Science Workshops (eScienceW), 2011 IEEE Seventh International Conference on, IEEE.   
+
+Xia, G.‐S., et al. (2015). "Accurate annotation of remote sensing images via active spectral clustering with little expert knowledge." Remote Sensing 7(11): 15014 - 15045.  
+
+Yandell, M. and D. Ence (2012). "A beginner's guide to eukaryotic genome annotation." Nature reviews genetics 13(5): 329.  
+
+Yao, X., et al. (2016). "Semantic annotation of high‐resolution satellite images via weakly supervised learning." IEEE Transactions on Geoscience and Remote Sensing 54(6): 3660‐3671.   
+
+
+
+
+
 
