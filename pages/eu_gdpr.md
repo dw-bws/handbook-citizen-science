@@ -1,4 +1,6 @@
 # EU General Data Protection Regulation
 
+<p align="justify"> In recent years, the concept of citizen science has gained more and more currency and acceptance in both civil society and the scientific community. The term citizen science itself, however, is older and, with Alan Irwin and Rick Bonney, has independent authors who both use the term but give it different meanings. For Alan Irwin citizen science is rather a means of democratizing science, which is regarded as elitist, and sees science as an obligation to take care of the needs of people (= citizens). Therefore, citizens should create knowledge independently and bring practical and local knowledge into the traditionally oriented scientific community through their external perspective (Irwin 1995). Bonney et al. (2016) on the other hand, sees citizen scientists as data collectors and does not primarily aim to democratize science, but hopes to create the largest possible community of voluntary laypersons with an interest in science who contribute to scientific projects as data collectors. This approach is closely related to the concept of “crowdsourcing” (Eitzel et al. 2017; Woolley et al. 2016).</p>
+
 ---  
 * [Back to index page](../index.md)
