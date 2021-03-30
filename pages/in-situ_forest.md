@@ -56,7 +56,7 @@ If forest stands consists of an upper storey of even‐aged trees, and a similar
  
  
 ### Diameter 
-<p align="justify">The diameter, typically the diameter at breast height (DBH) is regarded as the most important stand parameter. Together with data on tree age and height it can be used to calculate the timber stock, either expressed a volume (cubic metres or soil cubic metres). Data on diameter are collected during forest inventory using the methods described above for the indvidual tree parameter "diamter".</p>
+<p align="justify">The diameter, typically the diameter at breast height (DBH) is regarded as the most important stand parameter. Together with data on tree age and height it can be used to calculate the timber stock, either expressed a volume (cubic metres or soil cubic metres). Data on diameter are collected during forest inventory using the methods described above for the indvidual tree parameter "diameter".</p>
 
 ### Stand Density 
 <p align="justify">Stand density refers either to the degree to which a forest plot is populated by trees or how much wood or biomass can found at a certain area.  
