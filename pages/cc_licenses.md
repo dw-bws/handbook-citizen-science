@@ -8,9 +8,6 @@
 * Licenses allow authors of creative works to communicate which rights they reserve and which rights they waive for the benefit of recipients or other creators. 
 * Licenses are not tailored to a single type of work, but are applicable to any work covered by copyright law, for example, text, images, music, video clips, etc. In this way, free content is created.
 
-<hr />
-
-[Back to start page](index.md)
-
-<hr />
+---  
+* [Back to index page](../index.md)
 
