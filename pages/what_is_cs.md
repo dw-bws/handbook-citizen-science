@@ -8,8 +8,10 @@
 * Science seen as obligation to take care of the needs of people (= citizens)
 * Therefore, citizens should create knowledge independently and bring practical and local knowledge into the traditionally oriented scientific community through their external perspective
 
-**References**
+## References
 
 Bonney, R., Phillips, T.B., Ballard, H.L., & Enck, J.W. (2016): Can citizen science enhance public understanding of science? Public understanding of science, 25, 2-16
 
-Irwin, A. (1995): Citizen science: A study of people, expertise and sustainable development. London, New York: Routledge
+Irwin, A. (1995): Citizen science: A study of people, expertise and sustainable development. London, New York: Routledge  
+  
+### [Back to index page] (../index.md)
