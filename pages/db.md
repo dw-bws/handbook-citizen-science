@@ -27,8 +27,8 @@ For the definition of the database structure as well as for inserting, editing, 
 
 ## 2.2.	PostgreSQL
 
-<p align="justify>PostgreSQL is an object-relational database management system. It is maintained and developed by the PostgreSQL Global Development Group, a diverse group of many companies and individual contributors. It is free and open-source, released under the terms of the PostgreSQL License, a permissive software license. The initial release has been published in 1996 at the University of California at Berkeley Computer Science Department.</p>
-<p align="justify>PostgreSQL is a SQL database on a server, which is accessed via a client (Fig. 3). For the current project, a PostgreSQL database is installed on a virtual machine.</p> 
+<p align="justify">PostgreSQL is an object-relational database management system. It is maintained and developed by the PostgreSQL Global Development Group, a diverse group of many companies and individual contributors. It is free and open-source, released under the terms of the PostgreSQL License, a permissive software license. The initial release has been published in 1996 at the University of California at Berkeley Computer Science Department.</p>
+<p align="justify">PostgreSQL is a SQL database on a server, which is accessed via a client (Fig. 3). For the current project, a PostgreSQL database is installed on a virtual machine.</p> 
 
 <img src="../images/postgresql_client_server.jpg" alt="Tree rings" class="inline" width="400"/>  
 
