@@ -98,9 +98,9 @@ Now the user "joe" can create a database called "roda":
 
 <p align="justify">In PostgreSQL, there is a naming convention:
   
-* For SQL keywords, upper case letters are used  
+- For SQL keywords, upper case letters are used  
 
-* For names (=identifiers), lower case letters (with underscores) are used  
+- For names (=identifiers), lower case letters (with underscores) are used  
 
 </p>
 
