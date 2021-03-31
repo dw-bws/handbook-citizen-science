@@ -104,6 +104,9 @@ Now the user "joe" can create a database called "roda":
 
 <p align="justify">Following this convention, the PostgreSQL server contains a database “roda”. This database contains two schemes, “public” and “rodadata”, whereas the scheme “rodadata” contains three tables: “ed”, “ed_sensors” and “measurements”. Each table needs to have a primary key. This key is printed in bold letters in Fig. 15, which illustrates the database scheme for the roda database.</p>  
 
+<img src="../images/db_scheme.jpg" alt="Tree rings" class="inline" width="400"/>  
+
+###### Fig. 5: Database schema  
 
 
 ## References
