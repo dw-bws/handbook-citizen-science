@@ -10,9 +10,9 @@ This illustration gives an overview of the different Creative Commons Licences:
 
 <img src="../images/800px-Creative_commons_license_spectrum.jpg" alt="cc licenses" class="inline" width="400"/>  
 
-###### Fig. 1: Creative commons license spectrum (Source: https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Creative_commons_license_spectrum.svg, License CC BY 4.0)  
+###### Fig. 1: Creative commons license spectrum (Source: <a href="https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Creative_commons_license_spectrum.svg"> https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Creative_commons_license_spectrum.svg</a>, License CC BY 4.0)  
 
-Further information can be found at: https://creativecommons.org/
+Further information can be found at: <https://creativecommons.org/>
 
 ---  
 * [Back to index page](../index.md)
