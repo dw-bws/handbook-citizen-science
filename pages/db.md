@@ -52,19 +52,27 @@ To install postgresql on Ubuntu use:
 
 `sudo apt-get install postgresql-10`  
 
-sudo apt-get install postgresql-client
+`sudo apt-get install postgresql-client`
 
+After this, the password of the superuser is set. The default name of the postgresSQL superuser is postgres. The superuser is the administrator of the PostgreSQL server. He has all priviliges and is able to create users.  
 
-After this, the password of the superuser is set. The default name of the postgresSQL superuser is postgres. The superuser is the administrator of the PostgreSQL server. He has all priviliges and is able to create users.
-sudo –u postgres psql
-With this command, the postgresql command line mode is activated. To set the password for the superuser, enter the command:
-\password postgres
-Then the new password has to be entered twice. To quit the postgresql command line mode, enter:
-\q
-To create a new database user, the following command is used:
-sudo –u postgres createuser –P –d carsten
-Now the user “carsten” can create a database called “roda”:
-sudo –u postgres createdb -O carsten roda
+`sudo –u postgres psql`  
+
+With this command, the postgresql command line mode is activated. To set the password for the superuser, enter the command:  
+
+`\password postgres`  
+
+Then the new password has to be entered twice. To quit the postgresql command line mode, enter:  
+
+`\q`  
+
+To create a new database user (e.g. anmed joe), the following command is used:  
+
+`sudo –u postgres createuser –P –d joe`
+
+Now the user "joe" can create a database called "roda":  
+
+`sudo –u postgres createdb -O joe roda`
 
 
 
