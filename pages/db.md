@@ -25,6 +25,16 @@ For the definition of the database structure as well as for inserting, editing, 
 
 ###### Fig. 2:  Illustration of a relation in a relational database  
 
+## References
+
+Kemper, A., & Eickler, A. (2013): Datenbanksysteme. Oldenbourg Wissenschaftsv.  
+
+Gumm, H. P., & Sommer, M. (2009): Einführung in die Informatik. Oldenbourg Verlag.  
+
+Rigaux, P., Scholl, M., & Voisard, A. (2001): Spatial databases: with application to GIS. Elsevier.  
+
+Teorey, T. J., Lightstone, S. S., Nadeau, T., & Jagadish, H. V. (2011): Database modeling and design: Logical Design. Elsevier.  
+
 
 ---  
 * [Back to index page](../index.md)
