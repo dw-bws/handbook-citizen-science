@@ -16,5 +16,15 @@
 
 ###### Fig. 1:  Illustration of the hierarchical database model  
 
+<p align="justify">Relational database models follow a different concept (Fig. 2). A relational database can be described as a collection of tables, which are also called relations. Such a table consists of rows (=tuples) and columns, which are also called attributes.</p>
+
+<p align="justify">Each table needs to be unambiguously identifiable. Therefore each table contains one or more unique keys. A key must not be changed! 
+For the definition of the database structure as well as for inserting, editing, deleting and querying data in a relational database, a domain-specific language for databases is used: SQL. This is the abbreviation for Structured Query Language.</p>
+
+<img src="../images/db_model2.jpg" alt="Tree rings" class="inline" width="400"/>  
+
+###### Fig. 2:  Illustration of a relation in a relational database  
+
+
 ---  
 * [Back to index page](../index.md)
