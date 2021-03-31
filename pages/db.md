@@ -37,12 +37,34 @@ For the definition of the database structure as well as for inserting, editing, 
 <p alighn="justify">In the following, an example of how to install a PostgreSQL database is presented.,ase is installed on a local virtual machine.</p>
 
 ### Set up Use local VM
+
 The following solution has been tested and implemented:  
 1.	Download and install Oracel Virtual Box from: https://www.virtualbox.org/wiki/Downloads  
 2.	Download an ISO file of a Linux distribution, e.g. Ubuntu 18.04 LTS from: https://wiki.ubuntuusers.de/Downloads/  
 3.	Install Linux in Oracle Virtual Box  
 4.	Start Linux in the Oracle Virtual Box  
 
+### Setup of PostgreSQL data base “roda”
+
+In the following, an example of a installation of a PostgreSQL database on a Linux system (KUbuntu, Ubuntu Linux using KDE Desktop environment) is shown. Instructions are taken from https://wiki.ubuntuusers.de/PostgreSQL/
+
+To install postgresql on Ubuntu use:
+
+`sudo apt-get install postgresql-10`  
+
+sudo apt-get install postgresql-client
+
+
+After this, the password of the superuser is set. The default name of the postgresSQL superuser is postgres. The superuser is the administrator of the PostgreSQL server. He has all priviliges and is able to create users.
+sudo –u postgres psql
+With this command, the postgresql command line mode is activated. To set the password for the superuser, enter the command:
+\password postgres
+Then the new password has to be entered twice. To quit the postgresql command line mode, enter:
+\q
+To create a new database user, the following command is used:
+sudo –u postgres createuser –P –d carsten
+Now the user “carsten” can create a database called “roda”:
+sudo –u postgres createdb -O carsten roda
 
 
 
