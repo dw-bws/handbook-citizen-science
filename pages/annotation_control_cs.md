@@ -60,7 +60,8 @@ Neagoe, V.‐E. and R.‐M. Stoica (2014). A new neural network‐based approach
 
 Newman, G., et al. (2012). "The future of citizen science: emerging technologies and shifting paradigms." Frontiers in Ecology and the Environment 10(6): 298-304.  
 
-Petrillo, M. and J. Baycroft (2010): "Introduction to manual annotation.". https://gate.ac.uk/wiki/IntroToManualAnnotation_April2010.pdf  
+Petrillo, M. and J. Baycroft (2010): "Introduction to manual annotation.".   
+<a href="https://gate.ac.uk/wiki/IntroToManualAnnotation_April2010.pdf" title="Title"> https://gate.ac.uk/wiki/IntroToManualAnnotation_April2010.pdf</a>  
 
 Tweddle, J. C., et al. (2012). Guide to citizen science: developing, implementing and evaluating citizen science to study biodiversity and the environment in the UK, NERC/Centre for Ecology & Hydrology.  
 
