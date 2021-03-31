@@ -178,7 +178,7 @@ cur.close()
 
 ### Add data to table
 
-<p align="justify">The Python script "add_data_to_table.py" reads a csv-file containing the data to be inserted line by line in a loop. The data will transferred to the table "ed" in the scheme "rodadata" of the database "roda". By using %s placeholders, psycopg2 will do all conversions of data into their SQL representation automatically.</p>  
+<p align="justify">The Python script "add_data_to_table.py" reads a csv-file containing the data to be inserted line by line in a loop. The data will transferred to the table "ed" in the scheme "rodadata" of the database "roda". By using "%s" placeholders, psycopg2 will do all conversions of data into their SQL representation automatically.</p>  
 
 
 ```
