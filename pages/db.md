@@ -110,7 +110,7 @@ Now the user "joe" can create a database called "roda":
 
 <p>In the following, a more detailed description of the contents of the three tables is provided.</p>  
 
-<img src="../images/table_ed.jpg" alt="Tree rings" class="inline" width="800"/>  
+<img src="../images/table_ed.jpg" alt="Tree rings" class="inline" width="500"/>  
 
 ###### Fig. 6: Database scheme  
 
