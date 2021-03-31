@@ -39,7 +39,7 @@ Beijbom, O., et al. (2012). Automated annotation of coral reef survey images. Co
   
 Beijbom, O., et al. (2016). "Improving automated annotation of benthic survey images using wide‐band fluorescence." Scientific reports 6: 23166.  
   
-Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." https://files.eric.ed.gov/fulltext/ED519688.pdf   
+Bonney, R., et al. (2009a). "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report." <a href="https://files.eric.ed.gov/fulltext/ED519688.pdf" title="Title"> https://files.eric.ed.gov/fulltext/ED519688.pdf</a>  
   
 Bonney, R., et al. (2009b). "Citizen science: a developing tool for expanding science knowledge and scientific literacy." BioScience 59(11): 977‐984.  
   
