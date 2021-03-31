@@ -1,6 +1,6 @@
 # Data Bases
 
-<p align="justify">The word data is the plural of the word datum and comes from Latin word “dare”, which stands for “(thing) given”. According to the Merriam-Webster dictionary, it describes factual information used as a basis for reasoning, discussion, or calculation ([https://www.merriam-webster.com/dictionary/data](https://www.merriam-webster.com/dictionary/data>)).</p>
+<p align="justify">The word data is the plural of the word datum and comes from Latin word “dare”, which stands for “(thing) given”. According to the Merriam-Webster dictionary, it describes factual information used as a basis for reasoning, discussion, or calculation ( [https://www.merriam-webster.com/dictionary/data](https://www.merriam-webster.com/dictionary/data>) ).</p>
 
 [https://www.merriam-webster.com/dictionary/data](https://www.merriam-webster.com/dictionary/data>)
 
