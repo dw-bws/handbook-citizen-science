@@ -14,7 +14,7 @@
 
 <img src="../images/db_model1.jpg" alt="Tree rings" class="inline" width="400"/>  
 
-###### Fig. 1:  Illustration of the hierarchical database model  
+###### Fig. 1: Illustration of the hierarchical database model  
 
 <p align="justify">Relational database models follow a different concept (Fig. 2). A relational database can be described as a collection of tables, which are also called relations. Such a table consists of rows (=tuples) and columns, which are also called attributes.</p>
 
@@ -23,7 +23,21 @@ For the definition of the database structure as well as for inserting, editing, 
 
 <img src="../images/db_model2.jpg" alt="Tree rings" class="inline" width="400"/>  
 
-###### Fig. 2:  Illustration of a relation in a relational database  
+###### Fig. 2: Illustration of a relation in a relational database  
+
+## 2.2.	PostgreSQL
+
+<p align="justify>PostgreSQL is an object-relational database management system. It is maintained and developed by the PostgreSQL Global Development Group, a diverse group of many companies and individual contributors. It is free and open-source, released under the terms of the PostgreSQL License, a permissive software license. The initial release has been published in 1996 at the University of California at Berkeley Computer Science Department.</p>
+<p align="justify>PostgreSQL is a SQL database on a server, which is accessed via a client (Fig. 3). For the current project, a PostgreSQL database is installed on a virtual machine.</p> 
+
+<img src="../images/postgresql_client_server.jpg" alt="Tree rings" class="inline" width="400"/>  
+
+###### Fig. 3: PostgreSQL client-server  
+
+
+
+
+
 
 ## References
 
