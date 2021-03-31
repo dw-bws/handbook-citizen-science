@@ -72,7 +72,17 @@ To create a new database user (e.g. anmed joe), the following command is used:
 
 Now the user "joe" can create a database called "roda":  
 
-`sudo –u postgres createdb -O joe roda`
+`sudo –u postgres createdb -O joe roda`  
+
+### Administration of the database
+
+<p align="justify">A PostgreSQL database can be managed either via entering commands in a terminal window or by using the graphical user interface offered by the software pgAdmin3 or via an internet browser when using pgAdmin4. For the current database “roda”, pgAdmin4 us used (Fig. 4).</p>  
+
+<img src="../images/pgadmin4_roda.png" alt="Tree rings" class="inline" width="400"/>  
+
+###### Fig. 4: pgadmin4  
+
+
 
 
 
