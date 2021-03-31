@@ -176,8 +176,41 @@ cur.close()
   
 ```  
 
+### Add data to table
 
-        
+<p align="justify">The Python script “add_data_to_table.py” reads a csv-file containing the data to be inserted line by line in a loop. The data will transferred to the table “ed” in the scheme “rodadata” of the database “roda”.  
+The following Python script reads a CSV file (columns separated by semikolon) and inserts them into the table “ed“ in the scheme “rodadata”. By using %s placeholders, psycopg2 will do all conversions of data into their SQL representation automatically.</p>
+
+```
+#!/usr/bin/env python  
+  
+import csv  
+import psycopg2  
+  
+try:  
+    conn = psycopg2.connect(database="roda", user="joe", password="password")  
+    print("Connected to data base.")  
+  
+except (Exception, psycopg2.DatabaseError) as error:  
+        print(error)  
+  
+cur = conn.cursor()  
+with open('user_accounts.csv', 'r') as f:  
+    reader = csv.reader(f, delimiter=”;”)  
+    next(reader)  # Skip the header row.  
+    for row in reader:  
+        cur.execute(  
+            "INSERT INTO rodata.ed VALUES (%s, %s, %s, %s, %s)",  
+            row  
+        )  
+conn.commit()  
+  
+conn.close()  
+cur.close()  
+  
+ ```
+ 
+ 
         
         
 
