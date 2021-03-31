@@ -132,12 +132,16 @@ Now the user "joe" can create a database called "roda":
 #!/usr/bin/env python
 import psycopg2
 
-``try:
+```
+try:
    conn = psycopg2.connect("dbname = 'roda' user='carsten' password = '*****'")
    print("Connected to data base.")
 
 except (Exception, psycopg2.DatabaseError) as error:
-        print(error)``
+        print(error)
+```
+
+
         
         
         
