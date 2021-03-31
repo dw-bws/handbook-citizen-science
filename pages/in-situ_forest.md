@@ -21,21 +21,24 @@ Tree age is the time elapsed since the germination of the seed. It is important 
 
 ###### Fig. 2: Increment borer (Source: <a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Pressler_drill_5_beentree.jpg" title="Title"> https://upload.wikimedia.org/wikipedia/commons/3/34/Pressler_drill_5_beentree.jpg</a>, License CC BY‐SA 3.0)
 
-
 ### Tree Diameter  
 
 <p align="justify">In forestry, the diameter of a tree stem is used as a direct measure that, together with other variables, can be used to compute cross‐sectional areas, surface area and tree volume via allometric formulas. The diameter is typically measure at breast height and abbreviated DBH (diameter at breast height or “BHD” for “Brusthöhendurchmesser” in German). In the USA, this is a height of 4.5 feet above ground. In countries using the metric system, the breast height is measured at 1.3 m above ground level (Husch et al. 2002). Instruments  commonly  used  in  forestry  to  measure  BHD  are  calipers  (the  German name for the instrument is “Kluppe”) (Fig. 3) or simple measuring tapes.</p> 
 
 <img src="../images/Kluppeneinsatz.jpg" alt="Tree diameter" class="inline" width="400"/>
 
-###### Fig. 3: Beam caliper (Source: https://upload.wikimedia.org/wikipedia/commons/3/3b/Kluppeneinsatz.jpg, License CC BY‐SA 3.0) 
+###### Fig. 3: Beam caliper (Source: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Kluppeneinsatz.jpg" title="Title"> https://upload.wikimedia.org/wikipedia/commons/3/3b/Kluppeneinsatz.jpg</a>, License CC BY‐SA 3.0) 
 
 ### Height 
 <p align="justify"> Tree height is the most important vertical distance measure, but it is an ambiguous term, if not clearly defined. Total tree height <em>h</em> is defined as the vertical distance along the axis of the tree between the tree top and the ground. The bole height <em>h<sub>b</sub></em>  is defined as the vertical distance along the axis of the tree between the crown point and the ground. The crown point is the point, where the first crown‐forming branch is located. The merchantable height <em>h<sub>m</sub></em> is defined as the vertical distance along the axis of the tree between the terminal position of the last usable position of the stem and the ground. An illustration of these height variables can be found in Fig. 4.</p> 
  
 <img src="../images/tree_height.jpg" alt="Tree height" class="inline" width="400"/>
 
-###### Fig. 4:  Different tree height variables (Source: https://openclipart.org/ images released into Public Domain; own editing) 
+###### Fig. 4:  Different tree height variables (Source: <a href="https://openclipart.org/" title="Title"> https://openclipart.org/</a>, images released into Public Domain; own editing) 
+
+
+
+
 
 <p alighn="justify">Depending on the tree height, different instruments can be used to these this variables. Short trees can be measured using a simple levelling rod. For taller trees,a hypsometer can be used. This instrument is using either using geometric functions (hypsometer based  on  similar  triangles)  or  trigonometric  (hypsometers  based  on  tangents  and angles) functions to determine the height of a tree (Husch et al. 2002).</p>
  
