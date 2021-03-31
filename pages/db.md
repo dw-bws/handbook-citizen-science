@@ -139,6 +139,42 @@ try:
 except (Exception, psycopg2.DatabaseError) as error:
         print(error)
 ```
+#### Create a table  
+
+<p>The Python script `create_table_ed.py` creates a table called `ed` in the scheme `rodadata` with 5 columns.</p>  
+
+```
+#!/usr/bin/env python  
+  
+import sys  
+import psycopg2  
+  
+try:  
+    conn = psycopg2.connect(database="roda", user="carsten", password="*****")  
+    print("Connected to data base.")  
+  
+except (Exception, psycopg2.DatabaseError) as error:  
+        print(error)  
+  
+cur = conn.cursor()  
+  
+try:  
+    cur.execute(  
+        """CREATE TABLE rodadata.ed (  
+                ed serial PRIMARY KEY,  
+                easting real,  
+                northing real,  
+                height real,  
+                inst_date date);  
+                """)  
+except (Exception, psycopg2.DatabaseError) as error:  
+        print(error)  
+  
+conn.commit()  
+conn.close()  
+cur.close()  
+  
+```  
 
 
         
