@@ -46,7 +46,7 @@ The following solution has been tested and implemented:
 
 ### Setup of PostgreSQL data base “roda”
 
-In the following, an example of a installation of a PostgreSQL database on a Linux system (KUbuntu, Ubuntu Linux using KDE Desktop environment) is shown. Instructions are taken from <a href="https://wiki.ubuntuusers.de/PostgreSQL/" title="Title"> https://wiki.ubuntuusers.de/PostgreSQL/:.</a>
+In the following, an example of a installation of a PostgreSQL database on a Linux system (KUbuntu, Ubuntu Linux using KDE Desktop environment) is shown. Instructions are taken from <a href="https://wiki.ubuntuusers.de/PostgreSQL/" title="Title"> https://wiki.ubuntuusers.de/PostgreSQL/.</a>
 
 To install postgresql on Ubuntu use:
 
