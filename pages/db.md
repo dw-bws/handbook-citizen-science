@@ -52,7 +52,7 @@ To install postgresql on Ubuntu use:
 
 `sudo apt-get install postgresql-10`  
 
-`sudo apt-get install postgresql-client`
+`sudo apt-get install postgresql-client`  
 
 After this, the password of the superuser is set. The default name of the postgresSQL superuser is postgres. The superuser is the administrator of the PostgreSQL server. He has all priviliges and is able to create users.  
 
