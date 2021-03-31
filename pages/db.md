@@ -92,6 +92,16 @@ Now the user "joe" can create a database called "roda":
 
 `sudo apt-get install pgadmin4`  
 
+### Database scheme
+
+<p align="justify">In the computer science, schemes are formal descriptions of data. A database scheme defines, which data are stored in which format in the database and which relations exists between the data. Tables containing the actual data are an object in a scheme.</p>  
+
+<p align="justify">In PostgreSQL, there is a naming convention:
+•	For SQL keywords, upper case letters are used
+•	For names (=identifiers), lower case letters (with underscores) are used
+</p>
+
+<p align="justify">Following this convention, the PostgreSQL server contains a database “roda”. This database contains two schemes, “public” and “rodadata”, whereas the scheme “rodadata” contains three tables: “ed”, “ed_sensors” and “measurements”. Each table needs to have a primary key. This key is printed in bold letters in Fig. 15, which illustrates the database scheme for the roda database.</p>  
 
 
 
