@@ -112,10 +112,33 @@ Now the user "joe" can create a database called "roda":
 
 <img src="../images/table_ed.jpg" alt="Tree rings" class="inline" width="400"/>  
 
-###### Fig. 6: Database scheme  
+###### Fig. 6: Description of table “ed”  
+  
+<img src="../images/table_ed_sensors.jpg" alt="Tree rings" class="inline" width="400"/>  
 
+###### Fig. 7: Description of table “ed_sensors”  
 
+  
+### Python and PostgreSQL
 
+<p align="justify">To access the PostgreSQL database from Python, the python package “psycopg2 ” is used and can be installed using the Python package managing system pip via a terminal:</p>  
+
+`pip install psycopg2`  
+
+#### Connecting to data base using Python  
+
+<p>The Python script “connect.py” shows, how to connect to the PostgreSQL data base “roda”.</p>
+
+#!/usr/bin/env python
+import psycopg2
+
+`try:
+   conn = psycopg2.connect("dbname = 'roda' user='carsten' password = '*****'")
+   print("Connected to data base.")
+
+except (Exception, psycopg2.DatabaseError) as error:
+        print(error)`  
+        
 
 
 
