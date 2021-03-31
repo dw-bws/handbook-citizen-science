@@ -141,7 +141,7 @@ except (Exception, psycopg2.DatabaseError) as error:
 ```
 #### Create a table  
 
-<p>The Python script `create_table_ed.py` creates a table called `ed` in the scheme `rodadata` with 5 columns.</p>  
+<p>The Python script <code>create_table_ed.py</code> creates a table called `ed` in the scheme `rodadata` with 5 columns.</p>  
 
 ```
 #!/usr/bin/env python  
