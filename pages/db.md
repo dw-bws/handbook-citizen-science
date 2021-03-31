@@ -10,5 +10,11 @@
 
 <p align="justify">The internal structure of a database is given by the database model. This database model defines how data are stored, organized and manipulated. There are several database models. The most common ones are the hierarchical and the relational database model (Kemper 2013).</p>
 
+<p align="justify">The hierarchical database model is the oldest database model. Data are stored in a tree-structure (Fig. 1) as records, which are connected through links and form parent-child relationships. One record is defined as root node. Each other record exists as child record only once. Each child record has only one parent, but each parent record may have one or more child records. Thus, links are only possible from parent to child; links from child to parent are not possible. This is the big disadvantage of this database model. To retrieve data from the database, the whole tree needs to be passed starting with the root node.</p>
+
+<img src="../images/db_model1.jpg" alt="Tree rings" class="inline" width="400"/>  
+
+###### Fig. 1:  Illustration of the hierarchical database model  
+
 ---  
 * [Back to index page](../index.md)
