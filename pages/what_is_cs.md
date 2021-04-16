@@ -28,6 +28,8 @@ Woolley, J.P., McGowan, M.L., Teare, H.J., Coathup, V., Fishman, J.R., Setterste
 ## Further Reading
 Eitzel, M.V., Cappadonna, J.L., Santos-Lang, C., Duerr, R.E., Virapongse, A., West, S.E., Kyba, C., Bowser, A., Cooper, C.B., & Sforzi, A. (2017). Citizen science terminology matters: Exploring key terms. Citizen Science: Theory and Practice, 2 (https://gfzpublic.gfz-potsdam.de/rest/items/item_2280888_3/component/file_2280893/content)  
 
+Hecker, S., Haklay, M., Bowser, A., Makuch, Z., & Vogel, J. (2018). Citizen science: innovation in open science, society and policy. UCL Press (https://discovery.ucl.ac.uk/id/eprint/10058422/1/Citizen-Science.pdf)
+
 Heigl, F., Kieslinger, B., Paul, K.T., Uhlik, J., & Dörler, D. (2019). Opinion: Toward an international definition of citizen science. Proceedings of the National Academy of Sciences, 116, 8089-8092 (https://www.pnas.org/content/pnas/116/17/8089.full.pdf)
 
 
