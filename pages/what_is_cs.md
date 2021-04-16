@@ -9,13 +9,6 @@ should create knowledge independently and bring practical and local knowledge in
 
 Citizen science is often understood as an alternative approach to generating knowledge at the interface of science, society and politics. We understand Citizen Science as a form of integration of expertise and participation in scientific processes by people who are not necessarily bound to an academic institution. In a two-year process, dialogue forums and expert discussions were held throughout Germany to discuss the potentials, opportunities and challenges of Citizen Science. The results are presented here (Richter et al. 2017).
 
-## Links
-<a href="https://ecsa.citizen-science.net/"> - European Citizen Science Association (ECSA)</a>  
-<a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_cs_german.pdf"> - ECSA 10 Principles of Citizen Science (German)</a>  
-<a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_citizen_science.pdf"> - ECSA 10 Principles of Citizen Science (English)</a>  
-<a href="https://www.buergerschaffenwissen.de/"> - Bürger schaffen Wissen</a>  
-
-
 
 ## References
 
@@ -31,7 +24,20 @@ Irwin, A. (1995): Citizen science: A study of people, expertise and sustainable 
 Richter, A., Hecker, S., & Bonn, A. (2017): Aufbau von Kapazitäten für Citizen Science (Bürgerwissenschaften) in Deutschland. KAT-FachforumDigitales Planen und Gestalten 2017 <a href="https://www.researchgate.net/profile/Anett-Richter-2/publication/323028939_Technologische_Trends_im_Spannungsfeld_von_Beteiligung-Entscheidung-Planung_Aufbau_von_Kapazitaten_fur_Citizen_Science_Burgerwissenschaften_in_Deutschland/links/5a7d6737a6fdccc013f5a604/Technologische-Trends-im-Spannungsfeld-von-Beteiligung-Entscheidung-Planung-Aufbau-von-Kapazitaeten-fuer-Citizen-Science-Buergerwissenschaften-in-Deutschland.pdf"> (Link)</a>  
 
 Woolley, J.P., McGowan, M.L., Teare, H.J., Coathup, V., Fishman, J.R., Settersten, R.A., Sterckx, S., Kaye, J., & Juengst, E.T. (2016): Citizen science or scientific citizenship? Disentangling the uses of public engagement rhetoric in national research initiatives. BMC medical ethics, 17, 33  
-  
+
+## Further Reading
+Heigl, F., Kieslinger, B., Paul, K.T., Uhlik, J., & Dörler, D. (2019). Opinion: Toward an international definition of citizen science. Proceedings of the National Academy of Sciences, 116, 8089-8092
+https://www.pnas.org/content/pnas/116/17/8089.full.pdf
+
+
+
+## Links
+<a href="https://ecsa.citizen-science.net/"> - European Citizen Science Association (ECSA)</a>  
+<a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_cs_german.pdf"> - ECSA 10 Principles of Citizen Science (German)</a>  
+<a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_citizen_science.pdf"> - ECSA 10 Principles of Citizen Science (English)</a>  
+<a href="https://www.buergerschaffenwissen.de/"> - Bürger schaffen Wissen</a>  
+
+
 ---  
 * [Back to index page](../index.md)
 
