@@ -40,11 +40,29 @@ In addition, the EU GDPR specifies principles of the processing of personal data
     <li> adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (“data minimisation”);</li>
     <li> accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (“accuracy”);</li>
     <li> kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (“storage limitation”);</li>
-    <li> processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (“integrity and confidentiality”).</li>
-    
-Furthermore, Article 5, Paragraph 2 requires the person responsible for the processing of personal data to demonstrate compliance with these principles:
+    <li> processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (“integrity and confidentiality”).</li>  
+</ol>
+
+
+Furthermore, Article 5, Paragraph 2 requires the person responsible for the processing of personal data to demonstrate compliance with these principles:  
 *The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (“accountability”).*
 
+And finally, Article 83, Paragraphs 4 and 5 lists possible legal consequences for non-compliance with the EU GDPR:  
+4. Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 10 000 000 EUR, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:  
+<ol type="a">
+    <li> the obligations of the controller and the processor pursuant to Articles 8, 11, 25 to 39 and 42 and 43;</li>
+    <li> the obligations of the certification body pursuant to Articles 42 and 43;</li>
+    <li> the obligations of the monitoring body pursuant to Article 41(4).</li>
+</ol>
+
+5.   Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:  
+<ol type="a">
+    <li> the basic principles for processing, including conditions for consent, pursuant to Articles 5, 6, 7 and 9;</li>
+    <li> the data subjects' rights pursuant to Articles 12 to 22;</li>
+    <li> the transfers of personal data to a recipient in a third country or an international organisation pursuant to Articles 44 to 49;</li>
+    <li> any obligations pursuant to Member State law adopted under Chapter IX;</li>
+    <li> non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).</li>
+</ol>
 
 
 ## References
