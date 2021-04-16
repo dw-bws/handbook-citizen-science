@@ -22,3 +22,7 @@ This means that a work requires human creation (in German: menschliches Schaffen
 In contrast, scientific works are characterized by fundamental peculiarities which are the essence of a scientific work. A scientific discourse on the content of a scientific statement, teaching or theory must be possible at its core without the authors being allowed to take copyright action against the entire discourse or against individual criticism. This scientific content is therefore to be classified as in the public domain, at least as far as the moral rights (in German: Urheberpersönlichkeitsrecht) of the author are not affected (Geibel 2017).  
 The moral rights of the author are regulated in §§ 12 to 14 of the UrhG. According to these, the author alone may determine whether and how his work is published (§12). He also has a right to be named (§13) (Otto et al. 2017) <a href="https://www.bpb.de/gesellschaft/digitales/persoenlichkeitsrechte/244852/urheberpersoenlichkeitsrecht"> - https://www.bpb.de/gesellschaft/digitales/persoenlichkeitsrechte/244852/urheberpersoenlichkeitsrecht </a>.
   
+
+  
+  ---  
+* [Back to index page](../index.md)  
