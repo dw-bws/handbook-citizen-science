@@ -65,6 +65,19 @@ And finally, Article 83, Paragraphs 4 and 5 lists possible legal consequences fo
 </ol>
 
 Data protection law is fundamental rights protection, as it aims to guarantee the free development of your own personality. Already the acquisition process of personal data is governed by the EU-GDPR. Due to this reason the EU-GDPR has been laid out as a prohibition with an authorisation option (in German: Verbot mit Erlaubnisvorbehalt) (Egberts et al. 2018). This means that all collection, use and processing of personal data is unlawful in general unless they are justified by a statutory reason for authorisation (in German: gesetzlich normierter Erlaubnisgrund) (Tinnefeld et al. 2019). The reasons for permission are given in Article 6 of the GDPR. Nevertheless, processing of personal data may be allowed in case of a so-called existence of a legitimate interest (in German: Vorliegen eines berechtigten Interesses) as defined in Article 6, paragraph 1f (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1888-1-1). The standard requires a legitimate interest on the part of the person responsible or a third party, the necessity of the processing to achieve that legitimate interest and the absence of an overriding legitimate interest of the data subject. In any case, the person concerned also has a right of objection against a decision taken on the basis of Article 6, paragraph 1 (Egberts et al. 2018). 
+  
+The EU GDPR has a wide geographical scope. According to Article 3 EU-GDRP (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1455-1-1). the regulation applies to “processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union , regardless of whether the processing takes place in the Union or not.” This means that the “controller or processor” does not need to reside physically in the EU. As soon as personal data of people living in the EU are concerned, the EU-GDPR applies (Egberts et al. 2018).  
+  
+What does this mean in practice?  
+
+At first sight, all these regulations may appear to be very strict and may give rise to the fear that they also impose extensive restrictions on science and teaching. The good news is that research and teaching enjoy a number of privileges under the EU-GDPR. For example, sensitive data such as personal data may be processed independently of any consent if it is used for scientific research purposes. Additionally, further processing of data for a purpose other than that known at the time of data collection or generation for research purposes is permitted (Schwartmann 2019; Schwartmann et al. 2018).  
+As a kind of compensation for these privileges, it requires researchers to provide certain guarantees for the respect of the fundamental rights of the persons concerned by the collection of their personal data. These guarantees include technical and organisational measures such as:  
+-	Implementation of the principle of data minimisation,  
+-	Pseudonymisation of personal data, provided that research purposes can still be achieved in this way,  
+-	Further processing of the data in anonymous form (as far as this is possible), as anonymous data is not personal and then the EU-GDRP does not apply to it  
+
+  
+
 
 
 ## References
