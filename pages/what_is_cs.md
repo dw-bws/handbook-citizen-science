@@ -26,8 +26,11 @@ Richter, A., Hecker, S., & Bonn, A. (2017): Aufbau von Kapazitäten für Citizen
 Woolley, J.P., McGowan, M.L., Teare, H.J., Coathup, V., Fishman, J.R., Settersten, R.A., Sterckx, S., Kaye, J., & Juengst, E.T. (2016): Citizen science or scientific citizenship? Disentangling the uses of public engagement rhetoric in national research initiatives. BMC medical ethics, 17, 33  
 
 ## Further Reading
-Heigl, F., Kieslinger, B., Paul, K.T., Uhlik, J., & Dörler, D. (2019). Opinion: Toward an international definition of citizen science. Proceedings of the National Academy of Sciences, 116, 8089-8092
-https://www.pnas.org/content/pnas/116/17/8089.full.pdf
+Eitzel, M.V., Cappadonna, J.L., Santos-Lang, C., Duerr, R.E., Virapongse, A., West, S.E., Kyba, C., Bowser, A., Cooper, C.B., & Sforzi, A. (2017). Citizen science terminology matters: Exploring key terms. Citizen Science: Theory and Practice, 2 (https://gfzpublic.gfz-potsdam.de/rest/items/item_2280888_3/component/file_2280893/content)  
+
+Heigl, F., Kieslinger, B., Paul, K.T., Uhlik, J., & Dörler, D. (2019). Opinion: Toward an international definition of citizen science. Proceedings of the National Academy of Sciences, 116, 8089-8092 (https://www.pnas.org/content/pnas/116/17/8089.full.pdf)
+
+
 
 
 
