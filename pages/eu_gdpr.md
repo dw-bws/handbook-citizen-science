@@ -33,6 +33,19 @@ According to the EU GDPR, the collection or processing of personal data is only 
 </ol>
 To go back to the first case of authorisation to see what consent given by a natural person means in the terms of the EU-GDPR means “a clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the data subject's agreement to the processing of personal data relating to him or her, such as by a written statement, including by electronic means, or an oral statement”. This also includes “ticking a box when visiting an internet website, choosing technical settings for information society services or another statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of his or her personal data” Furthermore, Recital 32 demands that the reasons for a data processing are clearly stated and that the it is possible to withdraw a once given consent and that this possibility is clearly explained (Recital 32 of the EU-GDPR https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/grounds-processing/when-consent-valid_en).  
 
+In addition, the EU GDPR specifies principles of the processing of personal data in Article 5:  
+<ol type="a">
+    <li> processed lawfully, fairly and in a transparent manner in relation to the data subject (“lawfulness, fairness and transparency”); </li>
+    <li> collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (“purpose limitation”);</li>
+    <li> adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (“data minimisation”);</li>
+    <li> accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (“accuracy”);</li>
+    <li> kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (“storage limitation”);</li>
+    <li> processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (“integrity and confidentiality”).</li>
+    
+Furthermore, Article 5, Paragraph 2 requires the person responsible for the processing of personal data to demonstrate compliance with these principles:
+*The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (“accountability”).*
+
+
 
 ## References
 
