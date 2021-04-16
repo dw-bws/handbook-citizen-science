@@ -9,6 +9,8 @@ should create knowledge independently and bring practical and local knowledge in
 
 Citizen science is often understood as an alternative approach to generating knowledge at the interface of science, society and politics. We understand Citizen Science as a form of integration of expertise and participation in scientific processes by people who are not necessarily bound to an academic institution. In a two-year process, dialogue forums and expert discussions were held throughout Germany to discuss the potentials, opportunities and challenges of Citizen Science. The results are presented here (Richter et al. 2017).
 
+## Links
+<a href="https://ecsa.citizen-science.net/"> - European Citizen Science Association</a>
 
 
 ## References
