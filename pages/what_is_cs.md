@@ -5,7 +5,7 @@ According to the Oxford Dictionary citizen science is defined as "scientific wor
 In recent years, the concept of citizen science has gained more and more currency and acceptance in both civil society and the scientific community. The term citizen science
 itself, however, is older and, with Alan Irwin and Rick Bonney, has independent authors who both use the term but give it different meanings. For Alan Irwin citizen science is
 rather a means of democratizing science, which is regarded as elitist, and sees science as an obligation to take care of the needs of people (= citizens). Therefore, citizens
-should create knowledge independently and bring practical and local knowledge into the traditionally oriented scientific community through their external perspective (Irwin 1995). Bonney et al. (2016) on the other hand, sees citizen scientists as data collectors and does not primarily aim to democratize science, but hopes to create the largest possible community of voluntary laypersons with an interest in science who contribute to scientific projects as data collectors. This approach is closely related to the concept of “crowdsourcing” (Eitzel et al. 2017; Woolley et al. 2016).
+should create knowledge independently and bring practical and local knowledge into the traditionally oriented scientific community through their external perspective (Irwin 1995). Bonney et al. (1996, 2009) on the other hand sees the term citizen science as a form of science communication and citizen scientists as data collectors. So he does not primarily aim to democratize science, but hopes to create the largest possible community of voluntary laypersons with an interest in science who contribute to scientific projects as data collectors. This approach is closely related to the concept of “crowdsourcing” (Eitzel et al. 2017; Woolley et al. 2016).
 
 Citizen science is often understood as an alternative approach to generating knowledge at the interface of science, society and politics. We understand Citizen Science as a form of integration of expertise and participation in scientific processes by people who are not necessarily bound to an academic institution. In a two-year process, dialogue forums and expert discussions were held throughout Germany to discuss the potentials, opportunities and challenges of Citizen Science. The results are presented here (Richter et al. 2017).
 
@@ -19,13 +19,18 @@ Citizen science is often understood as an alternative approach to generating kno
 
 ## References
 
-Bonney, Rick (1996): Citizen science: A lab tradition. In: Living Bird 15 (4), S. 7–15.
+Bonney, Rick (1996): Citizen science: A lab tradition. In: Living Bird 15 (4), S. 7–15.  
 
-Bonney, R., Phillips, T.B., Ballard, H.L., & Enck, J.W. (2016): Can citizen science enhance public understanding of science? Public understanding of science, 25, 2-16
+Bonney, R., Cooper, C.B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K.V., & Shirk, J. (2009): Citizen science: a developing tool for expanding science knowledge and scientific literacy. BioScience, 59, 977-984  
+
+Eitzel, M., Cappadonna, J., Santos-Lang, C., Duerr, R., West, S.E., Virapongse, A., Kyba, C., Bowser, A., Cooper, C., & Sforzi, A. (2017): Citizen science terminology matters:
+exploring key terms. Citizen Science: Theory and Practice, 1-20  
 
 Irwin, A. (1995): Citizen science: A study of people, expertise and sustainable development. London, New York: Routledge  
 
-Richter, A., Hecker, S., & Bonn, A. (2017): Aufbau von Kapazitäten für Citizen Science (Bürgerwissenschaften) in Deutschland. KAT-FachforumDigitales Planen und Gestalten 2017 <a href="https://www.researchgate.net/profile/Anett-Richter-2/publication/323028939_Technologische_Trends_im_Spannungsfeld_von_Beteiligung-Entscheidung-Planung_Aufbau_von_Kapazitaten_fur_Citizen_Science_Burgerwissenschaften_in_Deutschland/links/5a7d6737a6fdccc013f5a604/Technologische-Trends-im-Spannungsfeld-von-Beteiligung-Entscheidung-Planung-Aufbau-von-Kapazitaeten-fuer-Citizen-Science-Buergerwissenschaften-in-Deutschland.pdf"> (Link)</a>
+Richter, A., Hecker, S., & Bonn, A. (2017): Aufbau von Kapazitäten für Citizen Science (Bürgerwissenschaften) in Deutschland. KAT-FachforumDigitales Planen und Gestalten 2017 <a href="https://www.researchgate.net/profile/Anett-Richter-2/publication/323028939_Technologische_Trends_im_Spannungsfeld_von_Beteiligung-Entscheidung-Planung_Aufbau_von_Kapazitaten_fur_Citizen_Science_Burgerwissenschaften_in_Deutschland/links/5a7d6737a6fdccc013f5a604/Technologische-Trends-im-Spannungsfeld-von-Beteiligung-Entscheidung-Planung-Aufbau-von-Kapazitaeten-fuer-Citizen-Science-Buergerwissenschaften-in-Deutschland.pdf"> (Link)</a>  
+
+Woolley, J.P., McGowan, M.L., Teare, H.J., Coathup, V., Fishman, J.R., Settersten, R.A., Sterckx, S., Kaye, J., & Juengst, E.T. (2016): Citizen science or scientific citizenship? Disentangling the uses of public engagement rhetoric in national research initiatives. BMC medical ethics, 17, 33  
   
 ---  
 * [Back to index page](../index.md)
