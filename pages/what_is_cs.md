@@ -13,6 +13,9 @@ Citizen science is often understood as an alternative approach to generating kno
 <a href="https://ecsa.citizen-science.net/"> - European Citizen Science Association (ECSA)</a>  
 <a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_cs_german.pdf"> - ECSA 10 Principles of Citizen Science (German)</a>  
 <a href="https://ecsa.citizen-science.net/wp-content/uploads/2020/02/ecsa_ten_principles_of_citizen_science.pdf"> - ECSA 10 Principles of Citizen Science (English)</a>  
+<a href="https://www.buergerschaffenwissen.de/"> - Bürger schaffen Wissen</a>  
+
+
 
 ## References
 
