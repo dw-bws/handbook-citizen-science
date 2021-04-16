@@ -14,9 +14,9 @@ Citizen science is often understood as an alternative approach to generating kno
 
 Bonney, Rick (1996): Citizen science: A lab tradition. In: Living Bird 15 (4), S. 7–15.  
 
-Bonney, R., Cooper, C.B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K.V., & Shirk, J. (2009): Citizen science: a developing tool for expanding science knowledge and scientific literacy. BioScience, 59, 977-984 (https://academic.oup.com/bioscience/article/59/11/977/251421)    
+Bonney, R., Cooper, C.B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K.V., & Shirk, J. (2009): Citizen science: a developing tool for expanding science knowledge and scientific literacy. BioScience, 59, 977-984 <a href="https://academic.oup.com/bioscience/article/59/11/977/251421"> (https://academic.oup.com/bioscience/article/59/11/977/251421)</a>
 
-Eitzel, M.V., Cappadonna, J.L., Santos-Lang, C., Duerr, R.E., Virapongse, A., West, S.E., Kyba, C., Bowser, A., Cooper, C.B., & Sforzi, A. (2017). Citizen science terminology matters: Exploring key terms. Citizen Science: Theory and Practice, 2 (https://gfzpublic.gfz-potsdam.de/rest/items/item_2280888_3/component/file_2280893/content)  
+Eitzel, M.V., Cappadonna, J.L., Santos-Lang, C., Duerr, R.E., Virapongse, A., West, S.E., Kyba, C., Bowser, A., Cooper, C.B., & Sforzi, A. (2017). Citizen science terminology matters: Exploring key terms. Citizen Science: Theory and Practice, 2 <a href="https://gfzpublic.gfz-potsdam.de/rest/items/item_2280888_3/component/file_2280893/content">https://gfzpublic.gfz-potsdam.de/rest/items/item_2280888_3/component/file_2280893/content</>
 
 Hecker, S., Haklay, M., Bowser, A., Makuch, Z., & Vogel, J. (2018). Citizen science: innovation in open science, society and policy. UCL Press (https://discovery.ucl.ac.uk/id/eprint/10058422/1/Citizen-Science.pdf)  
 
