@@ -19,8 +19,18 @@ The EU GDPR came into force on 25th May 2018. Since then, the “Regulation (EU)
 
 An essential part of the EU GDPR is the protection of so-called "personal data", which are defined in Article 4 as follows:  
 
-*“personal data” means any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;*
+*“personal data” means any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;*  
 
+According to the EU GDPR, the collection or processing of personal data is only lawful on the basis of a statutory authorisation. According to Article 6, a statutory authorisation is given if:  
+(a)	the data subject has given consent to the processing of his or her personal data for one or more specific purposes;  
+(b)	processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;  
+(c)	processing is necessary for compliance with a legal obligation to which the controller is subject;  
+(d)	processing is necessary in order to protect the vital interests of the data subject or of another natural person;  
+(e)	processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;  
+(f)	processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.  
+•	Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their tasks.	
+
+To go back to the first case of authorisation to see what consent given by a natural person means in the terms of the EU-GDPR means “a clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the data subject's agreement to the processing of personal data relating to him or her, such as by a written statement, including by electronic means, or an oral statement”. This also includes “ticking a box when visiting an internet website, choosing technical settings for information society services or another statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of his or her personal data” Furthermore, Recital 32 demands that the reasons for a data processing are clearly stated and that the it is possible to withdraw a once given consent and that this possibility is clearly explained (Recital 32 of the EU-GDPR https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/grounds-processing/when-consent-valid_en).  
 
 
 ## References
