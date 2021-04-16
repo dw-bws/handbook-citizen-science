@@ -1,8 +1,6 @@
 # What is Citizen Science
 
-The Oxford Dictionary defines citizen science as "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions. <a href="https://www.oed.com/view/Entry/33513?redirectedFrom=citizen+science#eid316619123"> (https://www.oed.com/view/Entry/33513?redirectedFrom=citizen+science#eid316619123)</a>"
-  
-
+According to the Oxford Dictionary citizen science is defined as "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions." <a href="https://www.oed.com/view/Entry/33513?redirectedFrom=citizen+science#eid316619123"> (Link)</a>"
 
 In recent years, the concept of citizen science has gained more and more currency and acceptance in both civil society and the scientific community. The term citizen science
 itself, however, is older and, with Alan Irwin and Rick Bonney, has independent authors who both use the term but give it different meanings. For Alan Irwin citizen science is
