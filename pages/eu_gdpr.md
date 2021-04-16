@@ -22,8 +22,8 @@ An essential part of the EU GDPR is the protection of so-called "personal data",
 *“personal data” means any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;*  
 
 According to the EU GDPR, the collection or processing of personal data is only lawful on the basis of a statutory authorisation. According to Article 6, a statutory authorisation is given if:  
-    (a)	the data subject has given consent to the processing of his or her personal data for one or more specific purposes;  
-    (b)	processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;  
+    a.	the data subject has given consent to the processing of his or her personal data for one or more specific purposes;  
+    b.	processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;  
     (c)	processing is necessary for compliance with a legal obligation to which the controller is subject;  
     (d)	processing is necessary in order to protect the vital interests of the data subject or of another natural person;  
 (e)	processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;  
