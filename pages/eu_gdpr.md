@@ -23,13 +23,13 @@ An essential part of the EU GDPR is the protection of so-called "personal data",
 
 According to the EU GDPR, the collection or processing of personal data is only lawful on the basis of a statutory authorisation. According to Article 6, a statutory authorisation is given if:  
 <ol type="a">
-    <li> a.	the data subject has given consent to the processing of his or her personal data for one or more specific purposes;</li>
-    <li>b.	processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;</li>  
-    (c)	processing is necessary for compliance with a legal obligation to which the controller is subject;  
-    (d)	processing is necessary in order to protect the vital interests of the data subject or of another natural person;  
-(e)	processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;  
-(f)	processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.  
-•	Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their tasks.	
+    <li> the data subject has given consent to the processing of his or her personal data for one or more specific purposes;</li>
+    <li> processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;</li>  
+    <li> processing is necessary for compliance with a legal obligation to which the controller is subject;</li>  
+    <li> processing is necessary in order to protect the vital interests of the data subject or of another natural person;</li>  
+    <li> processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;</li>
+    >li> processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.</li>  
+    <ol><li> Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their tasks.	</li></ol>
 </ol>
 To go back to the first case of authorisation to see what consent given by a natural person means in the terms of the EU-GDPR means “a clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the data subject's agreement to the processing of personal data relating to him or her, such as by a written statement, including by electronic means, or an oral statement”. This also includes “ticking a box when visiting an internet website, choosing technical settings for information society services or another statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of his or her personal data” Furthermore, Recital 32 demands that the reasons for a data processing are clearly stated and that the it is possible to withdraw a once given consent and that this possibility is clearly explained (Recital 32 of the EU-GDPR https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/grounds-processing/when-consent-valid_en).  
 
