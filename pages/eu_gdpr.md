@@ -86,6 +86,14 @@ Finos, R. (2016). 2026 Worldwide Big Data Market Forecast. <a href="http://wikib
 
 Reinsel, D., Gantz, J., & Rydning, J. (2017). Data age 2025: The evolution of data to lifecritical. Don’t Focus on Big Data, 2-24  
 
+Egberts, A., & Monschke, J. (2018). Einführung in das neue Datenschutzrecht unter der EU Datenschutz-Grundverordnung. JURA-Juristische Ausbildung, 40, 1100-1109  
+  
+Schwartmann, R., & Hermann, M. (2018). Was Hochschulen Beim Datenschutz Beachten Müssen. Forschung & Lehre, 7, 18  
+  
+Schwartmann, R. (2019). Wer trägt Verantwortung für Forschungsdaten. Forschung und Lehre, 11, 1006-1007  
+  
+Tinnefeld, M.-T., Buchner, B., Petri, T., & Hof, H.-J. (2019). Einführung in das Datenschutzrecht: Datenschutz und Informationsfreiheit in europäischer Sicht. Walter de Gruyter GmbH & Co KG  
+
 
 ---  
 * [Back to index page](../index.md)
