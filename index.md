@@ -9,7 +9,7 @@
 * [Standards](pages/standards.md)
 * [Creative Commons Licenses](pages/cc_licenses.md)
 * [EU General Data Protection Regulation](pages/eu_gdpr.md)
-* * [Copyright and Intellectual Property Rights in Citizen Sciene](pages/copyrights.md)
+* [Copyright and Intellectual Property Rights in Citizen Sciene](pages/copyrights.md)
 * [Apps for data acquisition](pages/apps.md)
 
 
