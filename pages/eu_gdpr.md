@@ -64,6 +64,8 @@ And finally, Article 83, Paragraphs 4 and 5 lists possible legal consequences fo
     <li> non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).</li>
 </ol>
 
+Data protection law is fundamental rights protection, as it aims to guarantee the free development of your own personality. Already the acquisition process of personal data is governed by the EU-GDPR. Due to this reason the EU-GDPR has been laid out as a prohibition with an authorisation option (in German: Verbot mit Erlaubnisvorbehalt) (Egberts et al. 2018). This means that all collection, use and processing of personal data is unlawful in general unless they are justified by a statutory reason for authorisation (in German: gesetzlich normierter Erlaubnisgrund) (Tinnefeld et al. 2019). The reasons for permission are given in Article 6 of the GDPR. Nevertheless, processing of personal data may be allowed in case of a so-called existence of a legitimate interest (in German: Vorliegen eines berechtigten Interesses) as defined in Article 6, paragraph 1f (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1888-1-1). The standard requires a legitimate interest on the part of the person responsible or a third party, the necessity of the processing to achieve that legitimate interest and the absence of an overriding legitimate interest of the data subject. In any case, the person concerned also has a right of objection against a decision taken on the basis of Article 6, paragraph 1 (Egberts et al. 2018). 
+
 
 ## References
 
