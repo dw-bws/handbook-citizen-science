@@ -2,13 +2,13 @@
 
 The link to the DLR Citizen Science Wiki for users outside of DLR is: <a href="https://dw-bws.github.io/handbook-citizen-science/"> https://dw-bws.github.io/handbook-citizen-science/</a>  
 
-<img src="../images/howto_fig01.jpg" alt="Tree rings" class="inline" width="500"/>
+<img src="../images/howto_fig01.jpg" alt="cs wiki web" class="inline" width="500"/>
 
 ###### Fig. 1: DLR Jena Citizen Science Wiki - Web View 
 
 The link to the DLR Jena Citizen Science Wiki at Github pages is:<a href="https://github.com/dw-bws/handbook-citizen-science"> https://github.com/dw-bws/handbook-citizen-science</a>
 
-<img src="../images/howto_fig02.jpg" alt="Tree rings" class="inline" width="500"/>
+<img src="../images/howto_fig02.jpg" alt="cs wiki github" class="inline" width="500"/>
 
 ###### Fig. 2: DLR Jena Citizen Science Wiki at Github pages
 
@@ -53,9 +53,18 @@ The markdown syntax does sometimes not work for the version of the handbook that
 
 At <a href="https://github.com/dw-bws/handbook-citizen-science">https://github.com/dw-bws/handbook-citizen-science</a> click at **“pages”** to enter the folder:  
 
-<img src="../images/howto_fig03.jpg" alt="Tree rings" class="inline" width="700"/>
+<img src="../images/howto_fig03.jpg" alt="enter folder pages" class="inline" width="700"/>
 
-###### Fig. 2: Enter the folder "pages"
+###### Fig. 3: Enter the folder "pages"
+  
+In the folder **“pages”** select **“Create new file”** from dropdwon list **“Add file”**:  
+   
+<img src="../images/howto_fig04.jpg" alt="crate new file" class="inline" width="700"/>
+
+###### Fig. 4: Enter the folder "pages"  
+  
+A new empty file will be opened. At the top, there is an entry field where you can enter the file name, e.g. “demo.md”  
+
 
 
 ---  
