@@ -97,6 +97,24 @@ When editing is finished and you want to save the file, click at the button **�
 <img src="../images/howto_fig09.jpg" alt="commit edits" class="inline" width="350"/>
 
 ###### Fig. 9: Commit edits
+  
+## Upload images
+  
+At <a href="https://github.com/dw-bws/handbook-citizen-science> https://github.com/dw-bws/handbook-citizen-science</a> click at **“images”** to enter the folder:
+  
+<img src="../images/howto_fig10.jpg" alt="upload images" class="inline" width="350"/>
+
+###### Fig. 10: Enter images folder
+  
+After you entered the folder, you can upload new images by dragging them from the Windows Explorer into the directory listing  
+When the image has been uploaded to the folder, it has to be commited by clicking at the button **“Commit changes”**  
+  
+<img src="../images/howto_fig11.jpg" alt="upload images" class="inline" width="350"/>
+
+###### Fig. 11: Commit changes to images folder to finish image upload  
+  
+- lorem  
+
 
 ---  
 * [Back to index page](../index.md)
