@@ -177,10 +177,11 @@ In Linux you can enter `df -h` to get an report of free disk space.
 #### Code blocks  
   
 Syntax:  
-```
-```10 PRINT "Hello World";  
+```  
+```  
+10 PRINT "Hello World";  
 20 GOTO 10  
-```
+```  
 ```  
   
 Output:  
