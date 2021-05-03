@@ -119,5 +119,27 @@ sudo -u postgres createdb -E UTF8 istsos
 sudo -u postgres psql -d istsos -c 'CREATE EXTENSION postgis'
 ```
 
+### Example implementation with “52°North”  
+
+A reference implementation of the OGC SOS specification has been published by 52°North (https://52north.org/). It is an interoperable interface for publishing and querying sensor data and metadata.  
+
+The installation guide can be found here:  
+<a href="https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Installation">https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Installation</a>  
+
+#### Installation requirements  
+
+-	Java Runtime environment (JRE) or Java Development Kit (JDK)
+-	Apache Tomcat Open-Source Webserver and –container
+-	A running DBMS, in this case the previously installed PostgreSQL database system
+
+1)	Create database „sos“ in PostgreSQL using pgadmin4
+
+
+
+
+
+
+
+
 ---  
 * [Back to index page](../index.md)
