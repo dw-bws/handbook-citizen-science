@@ -65,11 +65,17 @@ In the folder **“pages”** select **“Create new file”** from dropdwon lis
   
 A new empty file will be opened. At the top, there is an entry field where you can enter the file name, e.g. “demo.md”  
   
-<img src="../images/howto_fig05.jpg" alt="crate new file" class="inline" width="500"/>
+<img src="../images/howto_fig05.jpg" alt="create new file" class="inline" width="500"/>
 
 ###### Fig. 5: Specify file name    
+  
+Now enter content (text, images and markup commands) in the editor window  
+  
+To save the page, click on “Commit new file” at the bottom of the page.  
 
+<img src="../images/howto_fig06.jpg" alt="commit new file" class="inline" width="700"/>
 
+###### Fig. 5: Specify file name  
 
 ---  
 * [Back to index page](../index.md)
