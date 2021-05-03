@@ -28,8 +28,8 @@ At the Github pages overview site, there are:
   
 ## MD-Files
 
-Files with the extension “.md” are plain ASCII files, where the extension stands for markdown. See also:
-<a href="https://en.wikipedia.org/wiki/Markdown">https://en.wikipedia.org/wiki/Markdown</a>
+Files with the extension “.md” are plain ASCII files, where the extension stands for markdown. See also:  
+<a href="https://en.wikipedia.org/wiki/Markdown">https://en.wikipedia.org/wiki/Markdown</a>  
 <a href="https://daringfireball.net/projects/markdown/">https://daringfireball.net/projects/markdown/</a>  
   
 There are different variants of the markdown syntax. Github is using the “GitHub Flavored Markdown”. The GitHub Flavored Markdown Specifications can be found here:  
