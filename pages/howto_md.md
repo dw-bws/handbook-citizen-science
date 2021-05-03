@@ -123,7 +123,7 @@ Assuming that the md-file is placed in the folder “pages”, you can insert im
 
 md-syntax  |  explanation
 ---------- |  -----------
-#          |  h1
+``#``      |  h1
 
 
 ---  
