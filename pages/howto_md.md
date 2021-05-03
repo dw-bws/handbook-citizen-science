@@ -106,8 +106,8 @@ At <a href="https://github.com/dw-bws/handbook-citizen-science> https://github.c
 
 ###### Fig. 10: Enter images folder
   
-After you entered the folder, you can upload new images by dragging them from the Windows Explorer into the directory listing  
-When the image has been uploaded to the folder, it has to be commited by clicking at the button **“Commit changes”**  
+After you entered the folder, you can upload new images by dragging them from the Windows Explorer into the directory listing.  
+When the image (e.g. sos2.jpg) has been uploaded to the folder, it has to be commited by clicking at the button **“Commit changes”**  
   
 <img src="../images/howto_fig11.jpg" alt="upload images" class="inline" width="700"/>
 
