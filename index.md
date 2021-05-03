@@ -13,9 +13,6 @@
 * [Apps for data acquisition](pages/apps.md)
 
 
-
-
-
 # Useful links
 [Buerger schaffen Wissen](https://www.buergerschaffenwissen.de/)
 
@@ -27,4 +24,5 @@
 
 [Leitfaden für rechtliche Fragestellungen in Citizen-Science-Projekten](https://www.buergerschaffenwissen.de/sites/default/files/grid/2021/01/19/Citizen_Science_rechtlicher_Leitfaden_19.01.2021_WEB.pdf)
 
-
+# HowTo 
+[Working with GitHub pages and Markdown](howto_md.md)
