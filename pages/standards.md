@@ -282,7 +282,7 @@ If you need to access the web interface from anywhere, open the following file
 ```
 gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 ```
-and comment or remove the lines between the line starting with **Context antiResourceLocking...** and the line **</Context>** (in this example, it is commented out):  
+and comment or remove the lines between the line starting with **Context antiResourceLocking...** and the line **`</Context>`** (in this example, it is commented out):  
 
     <Context antiResourceLocking="false" privileged="true" >
     <!--
