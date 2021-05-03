@@ -165,5 +165,17 @@ Output:
    1. Item 3a
    1. Item 3b  
 
+  
+#### Inline code
+
+Syntax:  
+```In Linux you can enter `df -h` to get an report of free disk space.```
+  
+Output:  
+In Linux you can enter df -h to get an report of free disk space.
+
+
+
+
 ---  
 * [Back to index page](../index.md)
