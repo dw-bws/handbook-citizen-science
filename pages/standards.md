@@ -61,7 +61,9 @@ In the following, the installation of istSOS is described using the instructions
 <a href="http://istsos.org/en/latest/doc/installation.html"> http://istsos.org/en/latest/doc/installation.html</a>
 
 Assuming that an installation of PostgreSQL database server exists and is running, the SOS implementation requires an Apache web server. The module “mod-wsgi” will enable the execution of Python scripts by the Apache-HTTP-Server.
-
+```
+sudo apt-get install apache2 libapache2-mod-wsgi
+```
 
 ---  
 * [Back to index page](../index.md)
