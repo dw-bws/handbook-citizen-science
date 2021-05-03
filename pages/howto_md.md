@@ -172,7 +172,7 @@ Syntax:
 ```In Linux you can enter `df -h` to get an report of free disk space.```
   
 Output:  
-In Linux you can enter df -h to get an report of free disk space.
+In Linux you can enter `df -h` to get an report of free disk space.
 
 
 
