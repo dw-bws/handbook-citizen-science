@@ -126,6 +126,6 @@ md-syntax  |  explanation
 `#`        |  headline; similar to `<h1>` tag in HMTL
 `##`       |  headline; similar to `<h2>` tag in HMTL
 `*text*`   |  *italic* text
-
+`**text**` |  **bold** text
 ---  
 * [Back to index page](../index.md)
