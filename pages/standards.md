@@ -9,6 +9,7 @@ Standards in computer science define conventions and procedures by broadly recog
 The abbreviation OGC stands for Open Geospatial Consortium. It is a international voluntary standards organization, formed in 1994. In the OGC more than 500 members are working together on a consensus process for the development and implementation of open standards for geospatial data and services.
 Among the standards of the OGC are WMS (Web Map Services), WFS (Web Feature Service), KML (Keyhole Markup Language) or SOS (Sensor Observation Service).
 
+<img src="../images/sos1.jpg" alt="Tree rings" class="inline" width="400"/>
   
 ---  
 * [Back to index page](../index.md)
