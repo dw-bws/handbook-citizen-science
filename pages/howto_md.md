@@ -75,7 +75,18 @@ To save the page, click on **“Commit new file”** at the bottom of the page.
 
 <img src="../images/howto_fig06.jpg" alt="commit new file" class="inline" width="700"/>
 
-###### Fig. 5: Specify file name  
+###### Fig. 6: Commit new file
+  
+## Edit existing page  
+  
+At <a href="https://github.com/dw-bws/handbook-citizen-science"> https://github.com/dw-bws/handbook-citizen-science</a> click at **“pages”** to enter the folder.  
+In the folder, click at the file you want to edit:  
+  
+<img src="../images/howto_fig07.jpg" alt="edit file" class="inline" width="700"/>
+
+###### Fig. 7: Edit existing file  
+  
+-  
 
 ---  
 * [Back to index page](../index.md)
