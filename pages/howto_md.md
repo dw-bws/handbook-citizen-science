@@ -122,10 +122,10 @@ Assuming that the md-file is placed in the folder “pages”, you can insert im
 ### Some commands for formatting text using md-Syntax  
 
 md-syntax  |  explanation
----------- |  -----------
-``#``      |  headline; similar to `<h1>` tag in HMTL
-``##``     |  headline; similar to `<h2>` tag in HMTL
-
+---------- |  --------------------------------------
+`#`        |  headline; similar to `<h1>` tag in HMTL
+`##`       |  headline; similar to `<h2>` tag in HMTL
+`*text*`   |  *italic* text
 
 ---  
 * [Back to index page](../index.md)
