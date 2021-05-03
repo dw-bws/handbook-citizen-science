@@ -139,7 +139,43 @@ Use pgadmin 3 or 4 to create a postgresql database called “sos” (Fig. 2).
 
 ###### Fig. 2: Databse “sos” in pgadmin 4
 
+2)	Install postgis  
 
+To install the postgis extension for postgresql, the following guide was used:  
+<a href="https://freegistutorial.com/how-to-install-postgis-on-ubuntu-18-04/">https://freegistutorial.com/how-to-install-postgis-on-ubuntu-18-04/</a>
+
+To install postgis:  
+```
+sudo apt install postgis
+```
+
+Now switch user to superuser:  
+```
+sudo su
+```
+And start postgresql as superuser:  
+```
+su -  postgres
+```
+At the postgresql prompt, connect to the database “sos”:  
+
+```
+postgres=# \connect sos
+```
+
+Create a schema called postgis:  
+```
+sos=# CREATE SCHEMA postgis;
+sos=# ALTER DATABASE sos SET search_path=public, postgis, contrib;
+```
+
+Create an postgis extension:  
+```
+sos=#  CREATE EXTENSION postgis SCHEMA postgis;
+sos=# SELECT postgis_full_version();
+```
+
+An extension can also be installed using the Graphical User Interface pgadmin4.
 
 
 
