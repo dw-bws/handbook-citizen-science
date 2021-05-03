@@ -64,6 +64,10 @@ In the folder **“pages”** select **“Create new file”** from dropdwon lis
 ###### Fig. 4: Enter the folder "pages"  
   
 A new empty file will be opened. At the top, there is an entry field where you can enter the file name, e.g. “demo.md”  
+  
+<img src="../images/howto_fig05.jpg" alt="crate new file" class="inline" width="500"/>
+
+###### Fig. 5: Specify file name    
 
 
 
