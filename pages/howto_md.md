@@ -177,6 +177,7 @@ In Linux you can enter `df -h` to get an report of free disk space.
 #### Code blocks  
   
 Syntax:  
+  
 \```  
 10 PRINT "Hello World";  
 20 GOTO 10  
@@ -189,6 +190,25 @@ Output:
 20 GOTO 10  
 ```  
   
+### Backslash escapce  
+
+Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formating syntax.  
+Markdown provides backslash escapes for the following characters:  
+  
+  
+\ backslash
+`backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
+
 - 
 
 
