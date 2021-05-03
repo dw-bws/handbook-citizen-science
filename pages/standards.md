@@ -17,6 +17,9 @@ The SOS acts like an intermediary between a client and a physical sensor device 
                  
 <img src="../images/sos1.jpg" alt="Tree rings" class="inline" width="400"/>
 
-  
+<p align="justify">The sensor data consist of a description of the sensors themselves realized using the Sensor Model Language (SensorML) and the actual measured values given in the Observations and Measurements (O&M) encoding format.  
+The SOS consist of three core operations that must be provided by each implementation:</p>
+
+
 ---  
 * [Back to index page](../index.md)
