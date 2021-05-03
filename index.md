@@ -3,13 +3,13 @@
 # Topics
 
 * [What is Citizen Science](pages/what_is_cs.md)
+* [EU General Data Protection Regulation](pages/eu_gdpr.md)
+* [Copyright and Intellectual Property Rights in Citizen Sciene](pages/copyrights.md)
+* [Creative Commons Licenses](pages/cc_licenses.md)
 * [In-situ measurements on the example of forests](pages/in-situ_forest.md)
 * [Annotation  and  control  for  Citizen  Science  in‐situ data collection ](pages/annotation_control_cs.md)
 * [Data bases](pages/db.md)
 * [Standards for automated Data Collection](pages/standards.md)
-* [Creative Commons Licenses](pages/cc_licenses.md)
-* [EU General Data Protection Regulation](pages/eu_gdpr.md)
-* [Copyright and Intellectual Property Rights in Citizen Sciene](pages/copyrights.md)
 * [Apps for data acquisition](pages/apps.md)
 
 
