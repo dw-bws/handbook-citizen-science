@@ -131,14 +131,25 @@ md-syntax  |  explanation
 `**text**` |  **bold** text
   
 #### Unordered Lists  
-
+  
+Syntax:  
+  
+```* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+  
+Syntax:  
+  
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
+    
+#### Ordered Lists  
   
-#### Ordered Lists
-  
+Syntax:    
 ```1. Item 1
 1. Item 2
 1. Item 3
