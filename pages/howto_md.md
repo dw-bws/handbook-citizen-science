@@ -39,7 +39,7 @@ There are different variants of the markdown syntax. Github is using the “GitH
 ### Issues
 The markdown syntax does sometimes not work for the version of the handbook that is accessible to external users at <a href="https://dw-bws.github.io/handbook-citizen-science/"> https://dw-bws.github.io/handbook-citizen-science/</a>
 
-   **Example**
+   **Example**  
    The markdown code for links. In this case, the official HTML syntax is required.  
    
    Markdown syntax:  
