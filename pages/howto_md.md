@@ -50,9 +50,11 @@ The markdown syntax does sometimes not work for the version of the handbook that
 
 ## Create new page
 
+At <a href="https://github.com/dw-bws/handbook-citizen-science">https://github.com/dw-bws/handbook-citizen-science</a> click at **“pages”** to enter the folder:  
+
 <img src="../images/howto_fig03.jpg" alt="Tree rings" class="inline" width="700"/>
 
-###### Fig. 2: Create new page
+###### Fig. 2: Enter the folder "pages"
 
 
 ---  
