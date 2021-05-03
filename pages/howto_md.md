@@ -86,7 +86,12 @@ In the folder, click at the file you want to edit:
 
 ###### Fig. 7: Edit existing file  
   
--  
+The file will be opened and displayed in reading mode. To edit the file, click at the **pencil-icon** in the upper right corner:  
+  
+<img src="../images/howto_fig08.jpg" alt="edit file pencil icon" class="inline" width="700"/>
+
+###### Fig. 8: Edit existing file - the pencil icon 
+
 
 ---  
 * [Back to index page](../index.md)
