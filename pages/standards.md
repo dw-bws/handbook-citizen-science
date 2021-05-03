@@ -24,6 +24,12 @@ The SOS consist of three core operations that must be provided by each implement
 
 1. GetCapabilities
 - to query a service for a description of the service interface and the available sensor data
+2. GetObservation: 
+- to retrieve data for specific sensors
+- measured values and their metadata is returned in the Observations and Measurements encoding format (O & M).
+3. DescribeSensor:
+- to return detailed information about a sensor or a sensor system
+- uses the Sensor Model Language (SensorML)
 
 
 
