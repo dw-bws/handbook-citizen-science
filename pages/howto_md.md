@@ -34,7 +34,7 @@ Files with the extension “.md” are plain ASCII files, where the extension st
   
 There are different variants of the markdown syntax. Github is using the “GitHub Flavored Markdown”. The GitHub Flavored Markdown Specifications can be found here:  
 <a href="https://github.github.com/gfm/">https://github.github.com/gfm/</a>
-<a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>
+<a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>  
 <a href="https://markdown-guide.readthedocs.io/en/latest/basics.html">https://markdown-guide.readthedocs.io/en/latest/basics.html</a>  
 
 ### Issues
