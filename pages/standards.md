@@ -83,6 +83,31 @@ sudo chown -R www-data:www-data /usr/local/istsos/logs
 sudo chown -R www-data:www-data /usr/local/istsos/wns
 ```
 
+Now Apache and WSGI are configured:  
+```
+sudo vi /etc/apache2/sites-enabled/000-default.conf
+```
+
+These lines are added just before the last VirtualHost tag:  
+
+```
+#ServerName www.example.com
+ServerAdmin webmaster@localhost
+DocumentRoot /var/www/html
+
+ErrorLog ${APACHE_LOG_DIR}/error.log
+CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+WSGIScriptAlias /istsos /usr/local/istsos/application.py
+Alias /istsos/admin /usr/local/istsos/interface/admin
+Alias /istsos/modules /usr/local/istsos/interface/modules
+
+<LocationMatch /istsos>
+  Options +Indexes +FollowSymLinks +MultiViews
+  AllowOverride all
+  Require all granted
+</LocationMatch>
+```
 
 
 
