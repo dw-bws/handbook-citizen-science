@@ -109,7 +109,15 @@ Alias /istsos/modules /usr/local/istsos/interface/modules
 </LocationMatch>
 ```
 
-
+Now the Apache server is restarted:  
+```
+sudo service apache2 restart
+```
+Finally, a PostGIS database “istsos” is created:  
+```
+sudo -u postgres createdb -E UTF8 istsos
+sudo -u postgres psql -d istsos -c 'CREATE EXTENSION postgis'
+```
 
 ---  
 * [Back to index page](../index.md)
