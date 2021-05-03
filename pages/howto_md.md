@@ -113,8 +113,12 @@ When the image (e.g. sos2.jpg) has been uploaded to the folder, it has to be com
 
 ###### Fig. 11: Commit changes to images folder to finish image upload  
   
-- lorem  
+## Linking images
+Assuming that the md-file is placed in the folder “pages”, you can insert images from the folder “images” using this syntax (image location, alternative text in case image can’t be displayed, how it is embedded in the text and image width to control the image size):  
 
+`<img src="../images/sos2.jpg" alt="illustration of sos service" class="inline" width="500"/>`  
+  
+- dfdfdf
 
 ---  
 * [Back to index page](../index.md)
