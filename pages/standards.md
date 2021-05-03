@@ -177,6 +177,145 @@ sos=# SELECT postgis_full_version();
 
 An extension can also be installed using the Graphical User Interface pgadmin4.
 
+3)	Install Apache Tomcat  
+
+Instructions are taken from:  
+<a href="https://websiteforstudents.com/tomcat-9-0-12-released-heres-how-to-install-upgrade-on-ubuntu-16-04-18-04-lts/">https://websiteforstudents.com/tomcat-9-0-12-released-heres-how-to-install-upgrade-on-ubuntu-16-04-18-04-lts/</a>
+
+a)	Install Java
+```
+sudo su
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt update
+sudo apt install oracle-java8-installer
+sudo apt install oracle-java8-set-default
+```
+Now that JAVA is installed, run the commands below to set its home directory. Use the editor “Nano” to edit the file “environment” in the directory /etc of the inux installation:  
+```
+sudo nano /etc/environment
+```
+Then copy and paste the follwoing lines below and save the file:  
+```
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+JAVA_HOME=/usr/lib/jvm/java-8-oracle
+export JAVA_HOME
+```
+
+To apply the changes to the current instance of the shell enter:
+```
+source /etc/environment
+```
+
+b)	Download and install Tomcat Packages  
+
+This downloads the zipped tomcat package files to the /tmp directory of the Linux installation:  
+```
+cd /tmp && wget http://mirrors.sonic.net/apache/tomcat/tomcat-9/v9.0.12/bin/apache-tomcat-9.0.12.tar.gz
+```
+
+Unpack the zip-file:  
+```
+tar -xzf apache-tomcat-9.0.12.tar.gz
+```
+Move it to the directory /opt/tomcat9 of the Linux installation:  
+```
+sudo mv apache-tomcat-9.0.12 /opt/tomcat9
+```
+
+Create a user called “tomcat9”:  
+```
+sudo useradd -r tomcat9 --shell /bin/false
+sudo chown -R tomcat9 /opt/tomcat9
+```
+
+c)	Configure Tomcat9 Service  
+```
+sudo gedit /opt/tomcat9/conf/tomcat-users.xml
+```
+
+Then create an account with password for the user and save by copying and pasting the line below into the file just before the </tomcat-users>:  
+
+```
+<role rolename="manager-gui"/>
+<role rolename="admin-gui"/>
+<user username="admin" password="password_here" roles="manager-gui,admin-gui"/>
+```
+
+Then edit the file “tomcat.service” using gedit:  
+```
+sudo gedit /etc/systemd/system/tomcat.service
+```
+
+And the following content:
+```
+[Unit]
+Description=Tomcat9
+After=network.target
+[Service]
+Type=forking
+User=tomcat9
+Group=tomcat9
+Environment=CATALINA_PID=/opt/tomcat9/tomcat9.pid
+Environment=JAVA_HOME=/usr/lib/jvm/java-8-oracle/
+Environment=CATALINA_HOME=/opt/tomcat9
+Environment=CATALINA_BASE=/opt/tomcat9
+Environment="CATALINA_OPTS=-Xms512m -Xmx512m"
+Environment="JAVA_OPTS=-Dfile.encoding=UTF-8 -Dnet.sf.ehcache.skipUpdateCheck=true -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -XX:+UseParNewGC"
+ExecStart=/opt/tomcat9/bin/startup.sh
+ExecStop=/opt/tomcat9/bin/shutdown.sh
+[Install]
+WantedBy=multi-user.target
+```
+
+After doing this, run the following commands:  
+```
+sudo systemctl daemon-reload
+sudo systemctl start tomcat.service
+sudo systemctl restart tomcat.service
+sudo systemctl enable tomcat.service
+```
+d)	Configure Tomcat Web Management Interface  
+
+<a href="https://linuxize.com/post/how-to-install-tomcat-8-5-on-ubuntu-18.04/">https://linuxize.com/post/how-to-install-tomcat-8-5-on-ubuntu-18.04/</a>
+
+If you need to access the web interface from anywhere, open the following files and comment or remove the bold lines highlighted in yellow:  
+```
+gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
+```
+
+Comment out (with <!--  things to comment out  -->):  
+```
+<Context antiResourceLocking="false" privileged="true" >
+**
+<!--
+  <Valve className="org.apache.catalina.valves.RemoteAddrValve"
+         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
+-->**
+
+</Context>
+
+And then do the same for:
+gedit /opt/tomcat9/webapps/host-manager/META-INF/context.xml
+Comment out (with <!--  things to comment out -->):
+
+<Context antiResourceLocking="false" privileged="true" >
+<!--
+  <Valve className="org.apache.catalina.valves.RemoteAddrValve"
+         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
+-->
+</Context>
+```
+
+Finally restart tomcat:  
+```
+sudo systemctl restart tomcat
+```
+
+
+
+
+
+
 
 
 ---  
