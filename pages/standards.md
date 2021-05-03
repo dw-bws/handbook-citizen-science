@@ -64,6 +64,27 @@ Assuming that an installation of PostgreSQL database server exists and is runnin
 ```
 sudo apt-get install apache2 libapache2-mod-wsgi
 ```
+If not already done, psycopg2, a PostgreSQL adapter for Python is installed:  
+```
+sudo apt-get install python-psycopg2
+```
+Then the istSOS is downloaded from:  
+<a href="https://sourceforge.net/projects/istsos/files/latest/download?source=files">https://sourceforge.net/projects/istsos/files/latest/download?source=files</a>
+
+and will be extracted to /usr/local/:  
+```
+sudo tar -zxvf istSOS-2.1.1.tar.gz -C /usr/local/
+```
+Then, some permission need to be changed:  
+```
+sudo chmod 755 -R /usr/local/istsos
+sudo chown -R www-data:www-data /usr/local/istsos/services
+sudo chown -R www-data:www-data /usr/local/istsos/logs
+sudo chown -R www-data:www-data /usr/local/istsos/wns
+```
+
+
+
 
 ---  
 * [Back to index page](../index.md)
