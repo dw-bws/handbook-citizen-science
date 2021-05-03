@@ -328,6 +328,12 @@ The TomcatWeb Application Manager can be started in a browser entering:
 ###### Fig. 3: Tomcat Browser Admin interface
 
 
+Now the 52°North SOS is listed as application in the second line of the table or can be accessed from: <a href="http://localhost:8080/52n-sos-webapp/">http://localhost:8080/52n-sos-webapp/</a>  
+
+<img src="../images/52north_admin_interface.jpg" alt="52 deg North Browser Admin interface" class="inline" width="700"/>
+
+###### Fig. 4: 52°North SOS Browser Admin interface
+
 
 
 
