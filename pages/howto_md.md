@@ -118,7 +118,11 @@ Assuming that the md-file is placed in the folder “pages”, you can insert im
 
 `<img src="../images/sos2.jpg" alt="illustration of sos service" class="inline" width="500"/>`  
   
-- dfdfdf
+  
+Some commands for formatting text using md-Syntax
+md-syntax  |   explanation
+
+
 
 ---  
 * [Back to index page](../index.md)
