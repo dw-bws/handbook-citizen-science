@@ -282,7 +282,7 @@ If you need to access the web interface from anywhere, open the following file
 ```
 gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 ```
-and comment or remove the lines between the line starting with **Context antiResourceLocking...** and the line **`</Context>`** (in this example, it is commented out):  
+and comment or remove the lines between the line **`<Context antiResourceLocking="false" privileged="true" >`** and the line **`</Context>`** (in this example, it is commented out with `<!--  things to comment out -->`):  
 
     <Context antiResourceLocking="false" privileged="true" >
     <!--
@@ -291,19 +291,20 @@ and comment or remove the lines between the line starting with **Context antiRes
     -->
     </Context>
 
-And then do the same for:
+And then do the same for:  
+```
 gedit /opt/tomcat9/webapps/host-manager/META-INF/context.xml
-Comment out (with <!--  things to comment out -->):
-
-<Context antiResourceLocking="false" privileged="true" >
-<!--
-  <Valve className="org.apache.catalina.valves.RemoteAddrValve"
-         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
--->
-</Context>
 ```
 
+Comment out (with `<!--  things to comment out -->`) the lines between the line **`<Context antiResourceLocking="false" privileged="true" >`** and **`</Context>`**:  
+
+    <!--
+     <Valve className="org.apache.catalina.valves.RemoteAddrValve"
+           allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
+    -->
+
 Finally restart tomcat:  
+
 ```
 sudo systemctl restart tomcat
 ```
