@@ -208,13 +208,6 @@ Markdown provides backslash escapes for the following characters:
 \. dot  
 \! exclamation mark  
   
-ende  
-
-
-- 
-
-
-
-
+  
 ---  
 * [Back to index page](../index.md)
