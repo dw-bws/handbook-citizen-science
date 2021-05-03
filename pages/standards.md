@@ -284,13 +284,14 @@ gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 ```
 
 Comment out (with '<!--  things to comment out  -->'):  
+
 ```
-<Context antiResourceLocking="false" privileged="true" >```
-**
-<!--
+`<Context antiResourceLocking="false" privileged="true" >`  
+`**<!--**`
   <Valve className="org.apache.catalina.valves.RemoteAddrValve"
          allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
--->**```
+-->**
+```
 
 </Context>
 
