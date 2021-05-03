@@ -123,7 +123,8 @@ Assuming that the md-file is placed in the folder “pages”, you can insert im
 
 md-syntax  |  explanation
 ---------- |  -----------
-``#``      |  h1
+``#``      |  headline; similar to `<h1>` tag in HMTL
+``##``     |  headline; similar to `<h2>` tag in HMTL
 
 
 ---  
