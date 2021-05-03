@@ -323,7 +323,7 @@ The TomcatWeb Application Manager can be started in a browser entering:
 `http://localhost:8080/manager/html`
 
 
-<img src="../images/tomcat_app_man.jpg" alt="Tomcat Browser Admin interface" class="inline" width="600"/>
+<img src="../images/tomcat_app_man.jpg" alt="Tomcat Browser Admin interface" class="inline" width="700"/>
 
 ###### Fig. 3: Tomcat Browser Admin interface
 
