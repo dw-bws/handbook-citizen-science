@@ -119,13 +119,25 @@ Assuming that the md-file is placed in the folder “pages”, you can insert im
 `<img src="../images/sos2.jpg" alt="illustration of sos service" class="inline" width="500"/>`  
   
   
-### Some commands for formatting text using md-Syntax  
-
+### Basic syntax  
+  
+#### Emphasis  
+  
 md-syntax  |  explanation
 ---------- |  --------------------------------------
 `#`        |  headline; similar to `<h1>` tag in HMTL
 `##`       |  headline; similar to `<h2>` tag in HMTL
 `*text*`   |  *italic* text
 `**text**` |  **bold** text
+  
+#### Unordered Lists  
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
+
 ---  
 * [Back to index page](../index.md)
