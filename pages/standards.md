@@ -41,13 +41,15 @@ A detailed description of the SOS can be downloaded from here:
 
 More information about the SensorML is provided at this website:  
 <a href="https://www.opengeospatial.org/standards/sensorml"> https://www.opengeospatial.org/standards/sensorml</a>
-The documentation for the SensorML can be retrieved following this link:
-https://portal.opengeospatial.org/files/?artifact_id=55939
 
-Inforamtion about O&M are available here:
-https://www.opengeospatial.org/standards/om
-The documentation for the O&M encoding system can be found here:
-http://portal.opengeospatial.org/files/?artifact_id=41510
+The documentation for the SensorML can be retrieved following this link:  
+<a href="https://portal.opengeospatial.org/files/?artifact_id=55939"> https://portal.opengeospatial.org/files/?artifact_id=55939</a>
+
+Inforamtion about O&M are available here:  
+<a href="https://www.opengeospatial.org/standards/om"> https://www.opengeospatial.org/standards/om</a>
+
+The documentation for the O&M encoding system can be found here:  
+<a href="http://portal.opengeospatial.org/files/?artifact_id=41510"> http://portal.opengeospatial.org/files/?artifact_id=41510 </a>
 
 
 
