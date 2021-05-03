@@ -71,7 +71,7 @@ A new empty file will be opened. At the top, there is an entry field where you c
   
 Now enter content (text, images and markup commands) in the editor window  
   
-To save the page, click on “Commit new file” at the bottom of the page.  
+To save the page, click on **“Commit new file”** at the bottom of the page.  
 
 <img src="../images/howto_fig06.jpg" alt="commit new file" class="inline" width="700"/>
 
