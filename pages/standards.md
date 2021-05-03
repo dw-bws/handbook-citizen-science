@@ -282,19 +282,14 @@ If you need to access the web interface from anywhere, open the following file
 ```
 gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 ```
-and comment or remove the bold these lines:  
- 
-Comment out (with `<!--  things to comment out  -->`):  
+and comment or remove the lines between the line <Context antiResourceLocking="false" privileged="true" > and the line </Context> (in this example, it is commented out):  
 
     <Context antiResourceLocking="false" privileged="true" >
-    **<!--**
-    **`  <Valve className="org.apache.catalina.valves.RemoteAddrValve"`**  
-    **`         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />`**  
-    **`-->`**  
-
-
-
-</Context>
+    <!--
+      <Valve className="org.apache.catalina.valves.RemoteAddrValve" 
+             allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />
+    -->
+    </Context>
 
 And then do the same for:
 gedit /opt/tomcat9/webapps/host-manager/META-INF/context.xml
