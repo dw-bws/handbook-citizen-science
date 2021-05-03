@@ -285,6 +285,10 @@ gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 
 Comment out (with '<!--  things to comment out  -->'):  
 
+`sample`**`sample`**`sample`
+
+
+
 ```
 `<Context antiResourceLocking="false" privileged="true" >`  
 `**<!--**`
