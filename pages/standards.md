@@ -135,7 +135,9 @@ The installation guide can be found here:
 1)	Create database „sos“ in PostgreSQL using pgadmin4
 
 
+<img src="../images/52north.jpg" alt="Databse “sos” in pgadmin 4" class="inline" width="450"/>
 
+###### Fig. 1: Databse “sos” in pgadmin 4
 
 
 
