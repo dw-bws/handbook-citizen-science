@@ -278,14 +278,13 @@ d)	Configure Tomcat Web Management Interface
 
 <a href="https://linuxize.com/post/how-to-install-tomcat-8-5-on-ubuntu-18.04/">https://linuxize.com/post/how-to-install-tomcat-8-5-on-ubuntu-18.04/</a>
 
-If you need to access the web interface from anywhere, open the following files and comment or remove the bold lines highlighted in yellow:  
+If you need to access the web interface from anywhere, open the following file  
 ```
 gedit /opt/tomcat9/webapps/manager/META-INF/context.xml
 ```
-
-Comment out (with '<!--  things to comment out  -->'):  
-
-`sample`**`sample`**`sample`
+and comment or remove the bold these lines:  
+ 
+Comment out (with `<!--  things to comment out  -->`):  
 
 `<Context antiResourceLocking="false" privileged="true" >`  
 **`<!--`**  
