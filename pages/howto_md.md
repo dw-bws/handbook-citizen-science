@@ -91,7 +91,12 @@ The file will be opened and displayed in reading mode. To edit the file, click a
 <img src="../images/howto_fig08.jpg" alt="edit file pencil icon" class="inline" width="700"/>
 
 ###### Fig. 8: Edit existing file - the pencil icon 
+  
+When editing is finished and you want to save the file, click at the button **“Commit changes”** below the editor window at the bottom of the page:  
+  
+<img src="../images/howto_fig09.jpg" alt="commit edits" class="inline" width="700"/>
 
+###### Fig. 9: Commit edits
 
 ---  
 * [Back to index page](../index.md)
