@@ -33,13 +33,13 @@ The SOS consist of three core operations that must be provided by each implement
 
 Besides the three core operations, there are also “Transactional operations” and “Extended operations”.
 
-More information about the OGC SOS standard can be found at:
+More information about the OGC SOS standard can be found at:  
 <a href="https://www.opengeospatial.org/standards/sos"> https://www.opengeospatial.org/standards/sos</a>
 
-A detailed description of the SOS can be downloaded from here:
+A detailed description of the SOS can be downloaded from here:  
 <a href="https://portal.opengeospatial.org/files/?artifact_id=47599"> https://portal.opengeospatial.org/files/?artifact_id=47599 </a>
 
-More information about the SensorML is provided at this website:
+More information about the SensorML is provided at this website:  
 <a href="https://www.opengeospatial.org/standards/sensorml"> https://www.opengeospatial.org/standards/sensorml</a>
 The documentation for the SensorML can be retrieved following this link:
 https://portal.opengeospatial.org/files/?artifact_id=55939
