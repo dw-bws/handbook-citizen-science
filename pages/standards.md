@@ -288,10 +288,11 @@ Comment out (with '<!--  things to comment out  -->'):
 `sample`**`sample`**`sample`
 
 `<Context antiResourceLocking="false" privileged="true" >`  
-**`<!--`**
-**`  <Valve className="org.apache.catalina.valves.RemoteAddrValve"`**
-**`         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />`** 
-**`-->`**
+**`<!--`**  
+**`  <Valve className="org.apache.catalina.valves.RemoteAddrValve"`**  
+**`         allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" />`**  
+**`-->`**  
+
 
 
 </Context>
