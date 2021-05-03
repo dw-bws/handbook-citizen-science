@@ -132,12 +132,12 @@ The installation guide can be found here:
 -	Apache Tomcat Open-Source Webserver and –container
 -	A running DBMS, in this case the previously installed PostgreSQL database system
 
-1)	Create database „sos“ in PostgreSQL using pgadmin4
-
+1)	Create database „sos“ in PostgreSQL using pgadmin4  
+Use pgadmin 3 or 4 to create a postgresql database called “sos” (Fig. 2).
 
 <img src="../images/52north.jpg" alt="Databse “sos” in pgadmin 4" class="inline" width="450"/>
 
-###### Fig. 1: Databse “sos” in pgadmin 4
+###### Fig. 2: Databse “sos” in pgadmin 4
 
 
 
