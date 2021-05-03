@@ -50,7 +50,7 @@ The markdown syntax does sometimes not work for the version of the handbook that
 
 ## Create new page
 
-<img src="../images/howto_fig03.jpg" alt="Tree rings" class="inline" width="500"/>
+<img src="../images/howto_fig03.jpg" alt="Tree rings" class="inline" width="700"/>
 
 ###### Fig. 2: Create new page
 
