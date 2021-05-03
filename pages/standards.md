@@ -310,6 +310,18 @@ sudo systemctl restart tomcat
 ```
 
 
+4)	Deploy 52°North war-file  
+
+Download the SOS v4.4.3 files from here: <a href="https://github.com/52North/SOS/releases/">https://github.com/52North/SOS/releases/</a>  
+
+Unzip the downloaded file and copy the war-file (52n-sos-webapp.war) to the tomcat webapps folder:  
+
+`cp /home/carsten/Downloads/52n-sensorweb-sos-4.4.3/bin/target/52n-sos-webapp.war /opt/tomcat9/webapps/`
+
+The TomcatWeb Application Manager can be started in a browser entering:  
+
+`http://localhost:8080/manager/html`
+
 
 
 
