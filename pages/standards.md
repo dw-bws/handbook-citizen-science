@@ -51,6 +51,16 @@ Inforamtion about O&M are available here:
 The documentation for the O&M encoding system can be found here:  
 <a href="http://portal.opengeospatial.org/files/?artifact_id=41510"> http://portal.opengeospatial.org/files/?artifact_id=41510 </a>
 
+###	Example implementation with “istSOS”  
+
+istSOS is an OGC SOS server implementation realized in the  Python language istSOS and is released under the GPL v2 l. It allows for managing and transmitting observations from sensors according to the OGC-SOS standard. istSOS comes with a Graphical User Interface for administration.
+
+The project website is: <a href="http://istsos.org/"> http://istsos.org/ </a>
+
+In the following, the installation of istSOS is described using the instructions provided here:  
+<a href="http://istsos.org/en/latest/doc/installation.html"> http://istsos.org/en/latest/doc/installation.html</a>
+
+Assuming that an installation of PostgreSQL database server exists and is running, the SOS implementation requires an Apache web server. The module “mod-wsgi” will enable the execution of Python scripts by the Apache-HTTP-Server.
 
 
 ---  
