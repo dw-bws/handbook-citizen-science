@@ -94,7 +94,7 @@ The file will be opened and displayed in reading mode. To edit the file, click a
   
 When editing is finished and you want to save the file, click at the button **“Commit changes”** below the editor window at the bottom of the page:  
   
-<img src="../images/howto_fig09.jpg" alt="commit edits" class="inline" width="700"/>
+<img src="../images/howto_fig09.jpg" alt="commit edits" class="inline" width="350"/>
 
 ###### Fig. 9: Commit edits
 
