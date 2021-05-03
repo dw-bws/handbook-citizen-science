@@ -25,6 +25,21 @@ At the Github pages overview site, there are:
 - "pages"  
   - This folder contains all pages with the content.
   - All files have the extension “.md”
+  
+## MD-Files
+
+Files with the extension “.md” are plain ASCII files, where the extension stands for markdown. See also:
+<a href="https://en.wikipedia.org/wiki/Markdown">https://en.wikipedia.org/wiki/Markdown</a>
+<a href="https://daringfireball.net/projects/markdown/">https://daringfireball.net/projects/markdown/</a>  
+  
+There are different variants of the markdown syntax. Github is using the “GitHub Flavored Markdown”. The GitHub Flavored Markdown Specifications can be found here:  
+<a href="https://github.github.com/gfm/">https://github.github.com/gfm/</a>
+<a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>
+
+### Issues
+The markdown syntax does sometimes not work for the version of the handbook that is accessible to external users at <a href="https://dw-bws.github.io/handbook-citizen-science/"> https://dw-bws.github.io/handbook-citizen-science/</a>
+
+
 
 ---  
 * [Back to index page](../index.md)
